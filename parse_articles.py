@@ -31,6 +31,21 @@ def format_article_dict(article_dict):
     else:
         article_dict['header'] = ''
 
+    # Separate footers and disclaimers from the story
+    # First remove footers in parenthesis (<footer>) at the end
+    matchObj = re.match(r'(.*)\((.*)\)$', article_dict['story'], re.M | re.I)
+    if matchObj:
+        article_dict['story'] = matchObj.group(1)
+        article_dict['footer'] = matchObj.group(2)
+    else:
+        # Then remove some ALL CAPS DISCLAIMERS (from Finch)
+        matchObj = re.match(r'(.*?)([A-Z]([^a-z]{500,})(.*))$', article_dict['story'], re.M)
+        if matchObj:
+            article_dict['story'] = matchObj.group(1)
+            article_dict['footer'] = matchObj.group(2)
+        else:
+            article_dict['footer'] = ''
+
     return article_dict
 
 def parse_articles(articles_txt, line_sep):
@@ -51,5 +66,5 @@ def parse_articles_from_file(file_path, line_sep='\n'):
     return parse_articles(articles_txt, line_sep)
 
 
-print(parse_articles_from_file('Data/News300.txt'))
+# print(parse_articles_from_file('Data/News300.txt'))
 # print(parse_articles_from_url('https://hackathon17.mope.ml/HackathonSite/News300.txt'))
