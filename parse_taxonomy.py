@@ -29,6 +29,6 @@ def node_list_to_tree(node_list):
         parents.append(new_node)
     return tree
 
-print(
-        parse_taxonomy_form_file('Data/T0.csv').to_json()
-)
+#print(
+#        parse_taxonomy_form_file('Data/T0.csv')
+#)
