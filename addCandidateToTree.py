@@ -41,11 +41,24 @@ def prepareGensim():
     model.save("doc2vec.model")
     print("model saved")
     
+    return model
     
     
-def insertCandidateToTree()    
-    prepareGensim()
-    myCandidate = "coupon"
+def insertCandidateToTree(): 
+    model = prepareGensim()
+    candidate = "coupon"
+    leaf = findLeaf(importTree(), candidate, model)
+    print(leaf.tag)
     
-    
+def findLeaf(tree, candidate, model):
+    if len(tree.children(tree.root)) > 0:
+        maxSimilarityFound = 0
+        bestChild = ''
+        for child in tree.children(tree.root):
+            if(model.similarity(child.tag, candidate) > maxSimilarityFound):
+                maxSimilarityFound = model.similarity(child.tag, candidate)
+                bestChild = child
+        return bestChild
+    else:
+        return tree
     
