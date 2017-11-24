@@ -1,4 +1,3 @@
-import codecs
 from treelib import Node, Tree
 
 def parse_taxonomy_form_file(file_path):
@@ -28,3 +27,21 @@ def node_list_to_tree(node_list):
         new_node = tree.create_node(node_tmp[1], parent=parents[len(parents)-1])
         parents.append(new_node)
     return tree
+
+def tree_to_file(tree, file_path):
+    res = list(flatten(tree_to_str(tree.get_node(tree.root), tree)))
+    with open(file_path, 'w') as f:
+        f.write('\n'.join(res)+'\n')
+
+def tree_to_str(node, tree):
+    res = ['' for i in range(tree.depth()+1)]
+    res[tree.depth(node)] = node.tag
+    return [';'.join(res)] + [tree_to_str(child, tree) for child in tree.children(node.identifier)]
+
+def flatten(container):
+    for i in container:
+        if isinstance(i, (list,tuple)):
+            for j in flatten(i):
+                yield j
+        else:
+            yield i
