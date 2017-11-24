@@ -30,7 +30,8 @@ def prepareGensim():
         eWords =  re.sub("[^\w]", " ",  e['story']).split() # look for nltk tokenizer
         eDocument = LabeledSentence(words = eWords, tags = eTags)
         trainingProcessed.append(eDocument)
-    model = Doc2Vec(size=300, min_count=3, workers=3)
+        
+    model = Doc2Vec(size=100, min_count=3, workers=3)
     model.build_vocab(trainingProcessed)
     
     #training of model
@@ -41,14 +42,10 @@ def prepareGensim():
     print("model saved")
     
     
-    d2v_model = Doc2Vec.load("doc2vec.model")
-    print("model loaded")
-    #words most similar to mother
-    print(d2v_model.most_similar("mother"))
-    #find the odd one out
-    print(d2v_model.doesnt_match("breakfast cereal dinner lunch".split()))
-    print(d2v_model.doesnt_match("cat dog table".split()))
-    #vector representation of word human
-    print(d2v_model["human"])
     
-prepareGensim()
+def insertCandidateToTree()    
+    prepareGensim()
+    myCandidate = "coupon"
+    
+    
+    

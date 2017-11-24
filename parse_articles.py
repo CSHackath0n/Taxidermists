@@ -1,4 +1,4 @@
-import requests
+import requests, re
 
 def download_articles(url):
     r = requests.get(url)
@@ -22,6 +22,15 @@ def format_article_dict(article_dict):
         t.strip()
         for t in article_dict['topicsDescription'].replace('"','').split(',')
     ]
+
+    # Separate some kind of header from the story
+    matchObj = re.match(r'(.*?)(( - )|(\(Fitch\)))(.*)', article_dict['story'], re.M | re.I)
+    if matchObj:
+        article_dict['header'] = matchObj.group(1)
+        article_dict['story'] = matchObj.group(5)
+    else:
+        article_dict['header'] = ''
+
     return article_dict
 
 def parse_articles(articles_txt, line_sep):
