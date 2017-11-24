@@ -1,1764 +1,1764 @@
 
- <node name="Reuters News Topics" level= "1">
-  <node name="News Topics" level= "2">
-   <node name="General News Topics" level= "3">
-    <node name="Arts Culture and Entertainment" level= "4">
-     <node name="Dance" level= "5"></node>
-     <node name="Exhibitions" level= "5"></node>
-     <node name="Festivals" level= "5"></node>
-     <node name="Film" level= "5"></node>
-     <node name="Government Policy" level= "5"></node>
-     <node name="Libraries" level= "5"></node>
-     <node name="Literature" level= "5"></node>
-     <node name="Museums" level= "5"></node>
-     <node name="Music" level= "5"></node>
-     <node name="Music" level= "5"></node>
-     <node name="Non Performing Arts" level= "5"></node>
-     <node name="Painting" level= "5"></node>
-     <node name="Radio" level= "5"></node>
-     <node name="Sculpture" level= "5"></node>
-     <node name="Theatre" level= "5"></node>
-     <node name="TV" level= "5"></node>
+ <node name="Reuters News Topics">
+  <node name="News Topics">
+   <node name="General News Topics">
+    <node name="Arts Culture and Entertainment">
+     <node name="Dance"></node>
+     <node name="Exhibitions"></node>
+     <node name="Festivals"></node>
+     <node name="Film"></node>
+     <node name="Government Policy"></node>
+     <node name="Libraries"></node>
+     <node name="Literature"></node>
+     <node name="Museums"></node>
+     <node name="Music"></node>
+     <node name="Music"></node>
+     <node name="Non Performing Arts"></node>
+     <node name="Painting"></node>
+     <node name="Radio"></node>
+     <node name="Sculpture"></node>
+     <node name="Theatre"></node>
+     <node name="TV"></node>
       </node>
 
-    <node name="Biographies Personalities and People" level= "4"></node>
-    <node name="Conflicts" level= "4">
-     <node name="Act of Terror" level= "5">
-      <node name="Bombings" level= "6"></node>
+    <node name="Biographies Personalities and People"></node>
+    <node name="Conflicts">
+     <node name="Act of Terror">
+      <node name="Bombings"></node>
        </node>
 
       </node>
 
-    <node name="Crime" level= "4">
-     <node name="Civil Law" level= "5"></node>
-     <node name="Corporate Crime" level= "5"></node>
-     <node name="Criminal Law" level= "5"></node>
-     <node name="Criminals" level= "5"></node>
-     <node name="Drug Related Crime" level= "5"></node>
-     <node name="Fraud" level= "5"></node>
-     <node name="Government Policy" level= "5"></node>
-     <node name="Judiciary" level= "5"></node>
-     <node name="Law" level= "5"></node>
-     <node name="Law and Order Issues" level= "5"></node>
-     <node name="Mafia" level= "5"></node>
-     <node name="Murder" level= "5"></node>
-     <node name="Organisations Associated With Law and Order" level= "5"></node>
-     <node name="Police" level= "5"></node>
-     <node name="Prisons" level= "5"></node>
+    <node name="Crime">
+     <node name="Civil Law"></node>
+     <node name="Corporate Crime"></node>
+     <node name="Criminal Law"></node>
+     <node name="Criminals"></node>
+     <node name="Drug Related Crime"></node>
+     <node name="Fraud"></node>
+     <node name="Government Policy"></node>
+     <node name="Judiciary"></node>
+     <node name="Law"></node>
+     <node name="Law and Order Issues"></node>
+     <node name="Mafia"></node>
+     <node name="Murder"></node>
+     <node name="Organisations Associated With Law and Order"></node>
+     <node name="Police"></node>
+     <node name="Prisons"></node>
       </node>
 
-    <node name="Disaster Accident and Natural Catastrophes" level= "4">
-     <node name="Airplane Crashes" level= "5"></node>
-     <node name="Boats Sinking" level= "5"></node>
-     <node name="Drought" level= "5"></node>
-     <node name="Earthquakes" level= "5"></node>
-     <node name="Famine" level= "5"></node>
-     <node name="Fire" level= "5"></node>
-     <node name="Floods" level= "5"></node>
-     <node name="Hurricanoes" level= "5"></node>
-     <node name="Major Industrial Accidents" level= "5"></node>
-     <node name="Man Made Disaster" level= "5"></node>
-     <node name="Motorway Crashes" level= "5"></node>
-     <node name="Natural Disasters" level= "5"></node>
-     <node name="Plague" level= "5"></node>
-     <node name="Pollution Disasters" level= "5"></node>
-     <node name="Tidal Waves" level= "5"></node>
-     <node name="Volcanoes" level= "5"></node>
+    <node name="Disaster Accident and Natural Catastrophes">
+     <node name="Airplane Crashes"></node>
+     <node name="Boats Sinking"></node>
+     <node name="Drought"></node>
+     <node name="Earthquakes"></node>
+     <node name="Famine"></node>
+     <node name="Fire"></node>
+     <node name="Floods"></node>
+     <node name="Hurricanoes"></node>
+     <node name="Major Industrial Accidents"></node>
+     <node name="Man Made Disaster"></node>
+     <node name="Motorway Crashes"></node>
+     <node name="Natural Disasters"></node>
+     <node name="Plague"></node>
+     <node name="Pollution Disasters"></node>
+     <node name="Tidal Waves"></node>
+     <node name="Volcanoes"></node>
       </node>
 
-    <node name="Domestic Politics" level= "4">
-     <node name="Elections" level= "5">
-      <node name="Citizens Initiative and Recall" level= "6"></node>
-      <node name="Electoral System" level= "6"></node>
-      <node name="Field Hockey" level= "6"></node>
-      <node name="Local Election" level= "6"></node>
-      <node name="national elections" level= "6"></node>
-      <node name="Political Campaign" level= "6">
-       <node name="Campaign Finance" level= "7"></node>
+    <node name="Domestic Politics">
+     <node name="Elections">
+      <node name="Citizens Initiative and Recall"></node>
+      <node name="Electoral System"></node>
+      <node name="Field Hockey"></node>
+      <node name="Local Election"></node>
+      <node name="national elections"></node>
+      <node name="Political Campaign">
+       <node name="Campaign Finance"></node>
         </node>
 
-      <node name="political candidates" level= "6"></node>
-      <node name="primary elections" level= "6"></node>
-      <node name="referenda" level= "6"></node>
-      <node name="regional elections" level= "6"></node>
-      <node name="Security" level= "6"></node>
-      <node name="voting" level= "6"></node>
+      <node name="political candidates"></node>
+      <node name="primary elections"></node>
+      <node name="referenda"></node>
+      <node name="regional elections"></node>
+      <node name="Security"></node>
+      <node name="voting"></node>
        </node>
 
-     <node name="Government" level= "5">
-      <node name="Defence" level= "6"></node>
+     <node name="Government">
+      <node name="Defence"></node>
        </node>
 
-     <node name="Religion" level= "5"></node>
+     <node name="Religion"></node>
       </node>
 
-    <node name="Education" level= "4">
-     <node name="Curricula" level= "5"></node>
-     <node name="Legislation" level= "5"></node>
-     <node name="Pay" level= "5"></node>
-     <node name="Performance" level= "5"></node>
-     <node name="Teachers" level= "5"></node>
+    <node name="Education">
+     <node name="Curricula"></node>
+     <node name="Legislation"></node>
+     <node name="Pay"></node>
+     <node name="Performance"></node>
+     <node name="Teachers"></node>
       </node>
 
-    <node name="Environment or Natural World or Conservation" level= "4">
-     <node name="Alternative Energy" level= "5"></node>
-     <node name="Conservation" level= "5"></node>
-     <node name="Energy Saving" level= "5"></node>
-     <node name="Environmental Disasters" level= "5"></node>
-     <node name="Environmental Politics" level= "5"></node>
-     <node name="Government Policy" level= "5"></node>
-     <node name="Green Issues" level= "5"></node>
-     <node name="Natural Resources" level= "5"></node>
-     <node name="Natural World" level= "5"></node>
-     <node name="Oil Spills" level= "5"></node>
-     <node name="Pollution" level= "5"></node>
-     <node name="Recycling" level= "5"></node>
-     <node name="Waste" level= "5"></node>
+    <node name="Environment or Natural World or Conservation">
+     <node name="Alternative Energy"></node>
+     <node name="Conservation"></node>
+     <node name="Energy Saving"></node>
+     <node name="Environmental Disasters"></node>
+     <node name="Environmental Politics"></node>
+     <node name="Government Policy"></node>
+     <node name="Green Issues"></node>
+     <node name="Natural Resources"></node>
+     <node name="Natural World"></node>
+     <node name="Oil Spills"></node>
+     <node name="Pollution"></node>
+     <node name="Recycling"></node>
+     <node name="Waste"></node>
       </node>
 
-    <node name="Genetically Modified Organisms" level= "4"></node>
-    <node name="Health and Medicine" level= "4">
-     <node name="Disease" level= "5"></node>
-     <node name="Government Policy" level= "5"></node>
-     <node name="Health" level= "5"></node>
-     <node name="Hospitals" level= "5"></node>
-     <node name="Medical Research" level= "5"></node>
-     <node name="Preventative Medicine" level= "5"></node>
+    <node name="Genetically Modified Organisms"></node>
+    <node name="Health and Medicine">
+     <node name="Disease"></node>
+     <node name="Government Policy"></node>
+     <node name="Health"></node>
+     <node name="Hospitals"></node>
+     <node name="Medical Research"></node>
+     <node name="Preventative Medicine"></node>
       </node>
 
-    <node name="Human Interest" level= "4">
-     <node name="Human Mishap" level= "5"></node>
-     <node name="High Society" level= "5"></node>
+    <node name="Human Interest">
+     <node name="Human Mishap"></node>
+     <node name="High Society"></node>
       </node>
 
-    <node name="International Relations" level= "4">
-     <node name="Diplomacy" level= "5">
-      <node name="Summit Meetings" level= "6"></node>
-      <node name="Treaty" level= "6"></node>
+    <node name="International Relations">
+     <node name="Diplomacy">
+      <node name="Summit Meetings"></node>
+      <node name="Treaty"></node>
        </node>
 
       </node>
 
-    <node name="Judicial Processes" level= "4">
-     <node name="Court Cases" level= "5"></node>
-     <node name="Court Decisions" level= "5"></node>
+    <node name="Judicial Processes">
+     <node name="Court Cases"></node>
+     <node name="Court Decisions"></node>
       </node>
 
-    <node name="Legislation" level= "4">
-     <node name="Local Government" level= "5"></node>
-     <node name="State" level= "5"></node>
+    <node name="Legislation">
+     <node name="Local Government"></node>
+     <node name="State"></node>
       </node>
 
-    <node name="Lifestyle" level= "4"></node>
-    <node name="Science and Technology" level= "4"></node>
-    <node name="Immigration" level= "4">
-     <node name="Asylum" level= "5"></node>
+    <node name="Lifestyle"></node>
+    <node name="Science and Technology"></node>
+    <node name="Immigration">
+     <node name="Asylum"></node>
       </node>
 
-    <node name="Macroeconomics" level= "4">
-     <node name="Humanitarian Aid" level= "5"></node>
-     <node name="Aid Agencies" level= "5">
-      <node name="Save The Children" level= "6"></node>
+    <node name="Macroeconomics">
+     <node name="Humanitarian Aid"></node>
+     <node name="Aid Agencies">
+      <node name="Save The Children"></node>
        </node>
 
-     <node name="Economic Aid" level= "5"></node>
-     <node name="Foreign Aid" level= "5"></node>
-     <node name="Government Aid" level= "5"></node>
-     <node name="Military Aid" level= "5"></node>
-     <node name="Private Aid" level= "5"></node>
-     <node name="Soft Loans" level= "5"></node>
+     <node name="Economic Aid"></node>
+     <node name="Foreign Aid"></node>
+     <node name="Government Aid"></node>
+     <node name="Military Aid"></node>
+     <node name="Private Aid"></node>
+     <node name="Soft Loans"></node>
       </node>
 
      </node>
 
-   <node name="Sports" level= "3">
-    <node name="Asian Games" level= "4"></node>
-    <node name="Athletics" level= "4"></node>
-    <node name="Billiards" level= "4">
-     <node name="Snooker" level= "5"></node>
+   <node name="Sports">
+    <node name="Asian Games"></node>
+    <node name="Athletics"></node>
+    <node name="Billiards">
+     <node name="Snooker"></node>
       </node>
 
-    <node name="Cycling" level= "4"></node>
-    <node name="Drug Use in Sports" level= "4">
-     <node name="Doping" level= "5"></node>
-     <node name="Drugs Tests" level= "5"></node>
+    <node name="Cycling"></node>
+    <node name="Drug Use in Sports">
+     <node name="Doping"></node>
+     <node name="Drugs Tests"></node>
       </node>
 
-    <node name="Gymnastics" level= "4"></node>
-    <node name="Horse Racing" level= "4">
-     <node name="Equestrian" level= "5"></node>
+    <node name="Gymnastics"></node>
+    <node name="Horse Racing">
+     <node name="Equestrian"></node>
       </node>
 
-    <node name="Individual Sports" level= "4">
-     <node name="Archery" level= "5"></node>
-     <node name="Bowls" level= "5"></node>
-     <node name="Chess" level= "5"></node>
-     <node name="Fencing" level= "5"></node>
-     <node name="Golf" level= "5"></node>
-     <node name="Material Arts" level= "5">
-      <node name="Boxing" level= "6"></node>
-      <node name="Judo" level= "6"></node>
-      <node name="Karate" level= "6"></node>
-      <node name="Sumo Wrestling" level= "6"></node>
-      <node name="Tae Kwondo" level= "6"></node>
+    <node name="Individual Sports">
+     <node name="Archery"></node>
+     <node name="Bowls"></node>
+     <node name="Chess"></node>
+     <node name="Fencing"></node>
+     <node name="Golf"></node>
+     <node name="Material Arts">
+      <node name="Boxing"></node>
+      <node name="Judo"></node>
+      <node name="Karate"></node>
+      <node name="Sumo Wrestling"></node>
+      <node name="Tae Kwondo"></node>
        </node>
 
-     <node name="Shooting" level= "5"></node>
-     <node name="Ski Jumping" level= "5"></node>
-     <node name="Snowboarding" level= "5"></node>
-     <node name="Tenpin Bowling" level= "5"></node>
-     <node name="Water Skiing" level= "5"></node>
+     <node name="Shooting"></node>
+     <node name="Ski Jumping"></node>
+     <node name="Snowboarding"></node>
+     <node name="Tenpin Bowling"></node>
+     <node name="Water Skiing"></node>
       </node>
 
-    <node name="League" level= "4">
-     <node name="Champions League" level= "5"></node>
-     <node name="NBA Basketball" level= "5"></node>
-     <node name="NFL American Football" level= "5"></node>
-     <node name="NHL Ice Hockey" level= "5"></node>
-     <node name="Rugby League" level= "5"></node>
-     <node name="Rugby Union" level= "5"></node>
+    <node name="League">
+     <node name="Champions League"></node>
+     <node name="NBA Basketball"></node>
+     <node name="NFL American Football"></node>
+     <node name="NHL Ice Hockey"></node>
+     <node name="Rugby League"></node>
+     <node name="Rugby Union"></node>
       </node>
 
-    <node name="Motorsport" level= "4">
-     <node name="Motocross" level= "5"></node>
-     <node name="Motor Racing" level= "5"></node>
-     <node name="Motorcycling" level= "5"></node>
-     <node name="Rallying" level= "5"></node>
-     <node name="Speedway" level= "5"></node>
+    <node name="Motorsport">
+     <node name="Motocross"></node>
+     <node name="Motor Racing"></node>
+     <node name="Motorcycling"></node>
+     <node name="Rallying"></node>
+     <node name="Speedway"></node>
       </node>
 
-    <node name="Multiple Stage Competition" level= "4">
-     <node name="Modern Pentathlon" level= "5"></node>
-     <node name="Triathlon" level= "5"></node>
+    <node name="Multiple Stage Competition">
+     <node name="Modern Pentathlon"></node>
+     <node name="Triathlon"></node>
       </node>
 
-    <node name="Olympics" level= "4">
-     <node name="Olympics-Medals" level= "5"></node>
-     <node name="Olympics-Medals Tables" level= "5"></node>
-     <node name="Olympics-Results" level= "5"></node>
-     <node name="Olympics-Events Timetables" level= "5"></node>
-     <node name="Olympics-Factboxes" level= "5"></node>
+    <node name="Olympics">
+     <node name="Olympics-Medals"></node>
+     <node name="Olympics-Medals Tables"></node>
+     <node name="Olympics-Results"></node>
+     <node name="Olympics-Events Timetables"></node>
+     <node name="Olympics-Factboxes"></node>
       </node>
 
-    <node name="Racket Sport" level= "4">
-     <node name="Badminton" level= "5"></node>
-     <node name="Squash" level= "5"></node>
-     <node name="Table Tennis" level= "5"></node>
-     <node name="Tennis" level= "5"></node>
+    <node name="Racket Sport">
+     <node name="Badminton"></node>
+     <node name="Squash"></node>
+     <node name="Table Tennis"></node>
+     <node name="Tennis"></node>
       </node>
 
-    <node name="Sport" level= "4">
-     <node name="Sports Business" level= "5"></node>
-     <node name="Sports Results" level= "5"></node>
+    <node name="Sport">
+     <node name="Sports Business"></node>
+     <node name="Sports Results"></node>
       </node>
 
-    <node name="Team Sports" level= "4">
-     <node name="American Football" level= "5"></node>
-     <node name="Australian Rules Football" level= "5"></node>
-     <node name="Baseball" level= "5">
-      <node name="Softball" level= "6"></node>
+    <node name="Team Sports">
+     <node name="American Football"></node>
+     <node name="Australian Rules Football"></node>
+     <node name="Baseball">
+      <node name="Softball"></node>
        </node>
 
-     <node name="Basketball" level= "5"></node>
-     <node name="Cricket" level= "5"></node>
-     <node name="European Soccer" level= "5"></node>
-     <node name="Handball" level= "5"></node>
-     <node name="Ice Hockey" level= "5"></node>
-     <node name="Netball" level= "5"></node>
-     <node name="Soccer" level= "5"></node>
-     <node name="Volleyball" level= "5"></node>
+     <node name="Basketball"></node>
+     <node name="Cricket"></node>
+     <node name="European Soccer"></node>
+     <node name="Handball"></node>
+     <node name="Ice Hockey"></node>
+     <node name="Netball"></node>
+     <node name="Soccer"></node>
+     <node name="Volleyball"></node>
       </node>
 
-    <node name="Water Sports" level= "4">
-     <node name="Boardsailing" level= "5"></node>
-     <node name="Canoeing" level= "5"></node>
-     <node name="Diving" level= "5"></node>
-     <node name="Rowing" level= "5"></node>
-     <node name="Sailing" level= "5"></node>
-     <node name="Swimming" level= "5"></node>
-     <node name="Water Polo" level= "5"></node>
-     <node name="Windsurfing" level= "5"></node>
-     <node name="Yachting" level= "5"></node>
+    <node name="Water Sports">
+     <node name="Boardsailing"></node>
+     <node name="Canoeing"></node>
+     <node name="Diving"></node>
+     <node name="Rowing"></node>
+     <node name="Sailing"></node>
+     <node name="Swimming"></node>
+     <node name="Water Polo"></node>
+     <node name="Windsurfing"></node>
+     <node name="Yachting"></node>
       </node>
 
-    <node name="Weightlifting" level= "4"></node>
-    <node name="Winter Sports" level= "4">
-     <node name="Alpine Skiing" level= "5"></node>
-     <node name="Biathlon" level= "5"></node>
-     <node name="Bobsleigh" level= "5"></node>
-     <node name="Cross Country Skiing" level= "5"></node>
-     <node name="Curling" level= "5"></node>
-     <node name="Figure Skating" level= "5"></node>
-     <node name="Luge" level= "5"></node>
-     <node name="Nordic Skiing" level= "5"></node>
-     <node name="Short Track Skating" level= "5"></node>
-     <node name="Skeleton" level= "5"></node>
-     <node name="Speed Skating" level= "5"></node>
+    <node name="Weightlifting"></node>
+    <node name="Winter Sports">
+     <node name="Alpine Skiing"></node>
+     <node name="Biathlon"></node>
+     <node name="Bobsleigh"></node>
+     <node name="Cross Country Skiing"></node>
+     <node name="Curling"></node>
+     <node name="Figure Skating"></node>
+     <node name="Luge"></node>
+     <node name="Nordic Skiing"></node>
+     <node name="Short Track Skating"></node>
+     <node name="Skeleton"></node>
+     <node name="Speed Skating"></node>
       </node>
 
-    <node name="World Cup" level= "4"></node>
-    <node name="Wrestling" level= "4"></node>
+    <node name="World Cup"></node>
+    <node name="Wrestling"></node>
      </node>
 
     </node>
 
-  <node name="Economy" level= "2">
-   <node name="US Government News" level= "3"></node>
-   <node name="Economic Indicators" level= "3"></node>
-   <node name="Employment" level= "3"></node>
-   <node name="Interest Rate" level= "3"></node>
-   <node name="Labour" level= "3"></node>
-   <node name="Policymakers Speak" level= "3"></node>
-   <node name="Purchasing Mgrs Index" level= "3"></node>
-   <node name="Short Term Interest Rates" level= "3"></node>
+  <node name="Economy">
+   <node name="US Government News"></node>
+   <node name="Economic Indicators"></node>
+   <node name="Employment"></node>
+   <node name="Interest Rate"></node>
+   <node name="Labour"></node>
+   <node name="Policymakers Speak"></node>
+   <node name="Purchasing Mgrs Index"></node>
+   <node name="Short Term Interest Rates"></node>
     </node>
 
-  <node name="Actors" level= "2">
-   <node name="Business Sector" level= "3">
-    <node name="Financial Services" level= "4">
-     <node name="Consumer Financial Services" level= "5"></node>
-     <node name="Diversified Financial Services" level= "5"></node>
-     <node name="Diversified Investment Services" level= "5"></node>
+  <node name="Actors">
+   <node name="Business Sector">
+    <node name="Financial Services">
+     <node name="Consumer Financial Services"></node>
+     <node name="Diversified Financial Services"></node>
+     <node name="Diversified Investment Services"></node>
       </node>
 
-    <node name="Insurance" level= "4">
-     <node name="Insurance Brokers" level= "5"></node>
-     <node name="Multiline Insurance" level= "5"></node>
-     <node name="Property and Casualty Insurance" level= "5"></node>
-     <node name="Reinsurance" level= "5"></node>
+    <node name="Insurance">
+     <node name="Insurance Brokers"></node>
+     <node name="Multiline Insurance"></node>
+     <node name="Property and Casualty Insurance"></node>
+     <node name="Reinsurance"></node>
       </node>
 
-    <node name="Airport Services" level= "4">
-     <node name="Airline Services" level= "5"></node>
-     <node name="Airlines" level= "5"></node>
+    <node name="Airport Services">
+     <node name="Airline Services"></node>
+     <node name="Airlines"></node>
       </node>
 
-    <node name="Appliances, Tools and Housewares" level= "4">
-     <node name="Consumer Electronics" level= "5"></node>
-     <node name="Home Improvement Products" level= "5"></node>
-     <node name="Household Goods" level= "5"></node>
-     <node name="Household Products" level= "5"></node>
-     <node name="Personal Products" level= "5"></node>
-     <node name="Personal Services" level= "5"></node>
-     <node name="Service Retailers" level= "5"></node>
+    <node name="Appliances, Tools and Housewares">
+     <node name="Consumer Electronics"></node>
+     <node name="Home Improvement Products"></node>
+     <node name="Household Goods"></node>
+     <node name="Household Products"></node>
+     <node name="Personal Products"></node>
+     <node name="Personal Services"></node>
+     <node name="Service Retailers"></node>
       </node>
 
-    <node name="Applied Resources" level= "4"></node>
-    <node name="Banks" level= "4">
-     <node name="Banking and Investment Services" level= "5"></node>
-     <node name="Banking Services" level= "5"></node>
-     <node name="Business Finance" level= "5">
-      <node name="Business Support Services" level= "6"></node>
-      <node name="Business Support Supplies" level= "6"></node>
+    <node name="Applied Resources"></node>
+    <node name="Banks">
+     <node name="Banking and Investment Services"></node>
+     <node name="Banking Services"></node>
+     <node name="Business Finance">
+      <node name="Business Support Services"></node>
+      <node name="Business Support Supplies"></node>
        </node>
 
       </node>
 
-    <node name="Computer and Electronics Retailers" level= "4">
-     <node name="Communications Equipment" level= "5"></node>
-     <node name="Computers and Office Equipment" level= "5"></node>
-     <node name="Computer Hardware" level= "5"></node>
-     <node name="Diversified Chemicals" level= "5"></node>
-     <node name="Integrated Telecommunications Services" level= "5"></node>
-     <node name="IT Services and Consulting" level= "5"></node>
-     <node name="Semiconductors" level= "5"></node>
-     <node name="Semiconductors and Semiconductor Equipment" level= "5"></node>
-     <node name="Semiconductor, Equipment and Testing" level= "5"></node>
-     <node name="Software and IT Services" level= "5"></node>
-     <node name="Software" level= "5"></node>
-     <node name="Technology" level= "5"></node>
-     <node name="Technology Equipment" level= "5"></node>
-     <node name="Telecommunications Services" level= "5"></node>
-     <node name="Wireless Telecommunications Services" level= "5"></node>
+    <node name="Computer and Electronics Retailers">
+     <node name="Communications Equipment"></node>
+     <node name="Computers and Office Equipment"></node>
+     <node name="Computer Hardware"></node>
+     <node name="Diversified Chemicals"></node>
+     <node name="Integrated Telecommunications Services"></node>
+     <node name="IT Services and Consulting"></node>
+     <node name="Semiconductors"></node>
+     <node name="Semiconductors and Semiconductor Equipment"></node>
+     <node name="Semiconductor, Equipment and Testing"></node>
+     <node name="Software and IT Services"></node>
+     <node name="Software"></node>
+     <node name="Technology"></node>
+     <node name="Technology Equipment"></node>
+     <node name="Telecommunications Services"></node>
+     <node name="Wireless Telecommunications Services"></node>
       </node>
 
-    <node name="Construction and Engineering" level= "4">
-     <node name="Basic Materials" level= "5"></node>
-     <node name="Homebuilding and Construction Supplies" level= "5"></node>
-     <node name="Real Estate" level= "5"></node>
+    <node name="Construction and Engineering">
+     <node name="Basic Materials"></node>
+     <node name="Homebuilding and Construction Supplies"></node>
+     <node name="Real Estate"></node>
       </node>
 
-    <node name="Economic Sector" level= "4">
-     <node name="Agricultural Chemicals" level= "5"></node>
-     <node name="Chemicals" level= "5">
-      <node name="Biotechnology and Medical Research" level= "6"></node>
-      <node name="Commodity Chemicals" level= "6"></node>
-      <node name="Pharmaceuticals" level= "6"></node>
+    <node name="Economic Sector">
+     <node name="Agricultural Chemicals"></node>
+     <node name="Chemicals">
+      <node name="Biotechnology and Medical Research"></node>
+      <node name="Commodity Chemicals"></node>
+      <node name="Pharmaceuticals"></node>
        </node>
 
-     <node name="Cyclical Consumer Goods and Services" level= "5">
-      <node name="Apparel and Accessories" level= "6">
-       <node name="Apparel and Accessories Retailers" level= "7"></node>
+     <node name="Cyclical Consumer Goods and Services">
+      <node name="Apparel and Accessories">
+       <node name="Apparel and Accessories Retailers"></node>
         </node>
 
-      <node name="Auto and Truck Manufacturers" level= "6"></node>
-      <node name="Broadcasting" level= "6"></node>
-      <node name="Containers and Packaging" level= "6"></node>
-      <node name="Cyclical Consumer Products" level= "6"></node>
-      <node name="Cyclical Consumer Services" level= "6"></node>
-      <node name="Entertainment Production" level= "6"></node>
-      <node name="Footwear" level= "6"></node>
-      <node name="Home Furnishings" level= "6">
-       <node name="Home Furnishings Retailers" level= "7"></node>
+      <node name="Auto and Truck Manufacturers"></node>
+      <node name="Broadcasting"></node>
+      <node name="Containers and Packaging"></node>
+      <node name="Cyclical Consumer Products"></node>
+      <node name="Cyclical Consumer Services"></node>
+      <node name="Entertainment Production"></node>
+      <node name="Footwear"></node>
+      <node name="Home Furnishings">
+       <node name="Home Furnishings Retailers"></node>
         </node>
 
-      <node name="Leisure and Recreation" level= "6">
-       <node name="Casinos and Gaming" level= "7"></node>
-       <node name="Leisure Products" level= "7">
-        <node name="Toys and Games" level= "8"></node>
+      <node name="Leisure and Recreation">
+       <node name="Casinos and Gaming"></node>
+       <node name="Leisure Products">
+        <node name="Toys and Games"></node>
          </node>
 
-       <node name="Recreational Products" level= "7"></node>
+       <node name="Recreational Products"></node>
         </node>
 
-      <node name="Office Equipment" level= "6"></node>
-      <node name="Restaurants" level= "6"></node>
-      <node name="Tires and Rubber Products" level= "6"></node>
+      <node name="Office Equipment"></node>
+      <node name="Restaurants"></node>
+      <node name="Tires and Rubber Products"></node>
        </node>
 
-     <node name="Diversified Retail" level= "5"></node>
-     <node name="Diversified Trading and Distributing" level= "5"></node>
-     <node name="Fishing and Farming" level= "5"></node>
-     <node name="Food and Beverages" level= "5"></node>
-     <node name="Food and Tobacco" level= "5"></node>
-     <node name="Non-Cyclical Consumer Goods and Services" level= "5">
-      <node name="Beverages" level= "6"></node>
-      <node name="Brewers" level= "6"></node>
-      <node name="Convenience Stores" level= "6"></node>
-      <node name="Distillers and Wineries" level= "6"></node>
-      <node name="Drug Retailers" level= "6"></node>
-      <node name="Food and Drug Retailing" level= "6"></node>
-      <node name="Food Distribution" level= "6"></node>
-      <node name="Food Processing" level= "6"></node>
-      <node name="Non-Alcoholic Beverages" level= "6"></node>
-      <node name="Retailers" level= "6"></node>
-      <node name="Tobaccos" level= "6"></node>
+     <node name="Diversified Retail"></node>
+     <node name="Diversified Trading and Distributing"></node>
+     <node name="Fishing and Farming"></node>
+     <node name="Food and Beverages"></node>
+     <node name="Food and Tobacco"></node>
+     <node name="Non-Cyclical Consumer Goods and Services">
+      <node name="Beverages"></node>
+      <node name="Brewers"></node>
+      <node name="Convenience Stores"></node>
+      <node name="Distillers and Wineries"></node>
+      <node name="Drug Retailers"></node>
+      <node name="Food and Drug Retailing"></node>
+      <node name="Food Distribution"></node>
+      <node name="Food Processing"></node>
+      <node name="Non-Alcoholic Beverages"></node>
+      <node name="Retailers"></node>
+      <node name="Tobaccos"></node>
        </node>
 
-     <node name="Non-Paper Containers and Packaging" level= "5"></node>
-     <node name="Specialty Chemicals" level= "5"></node>
-     <node name="Specialty Retailers" level= "5">
-      <node name="Other Specialty Retailers" level= "6"></node>
+     <node name="Non-Paper Containers and Packaging"></node>
+     <node name="Specialty Chemicals"></node>
+     <node name="Specialty Retailers">
+      <node name="Other Specialty Retailers"></node>
        </node>
 
-     <node name="Stores" level= "5">
-      <node name="Department Stores" level= "6"></node>
-      <node name="Discount Stores" level= "6"></node>
+     <node name="Stores">
+      <node name="Department Stores"></node>
+      <node name="Discount Stores"></node>
        </node>
 
-     <node name="Textiles and Apparel" level= "5">
-      <node name="Textiles and Leather Goods" level= "6"></node>
-       </node>
-
-      </node>
-
-    <node name="Energy" level= "4">
-     <node name="Coal" level= "5"></node>
-     <node name="Integrated Oil and Gas" level= "5"></node>
-     <node name="Oil and Gas" level= "5"></node>
-     <node name="Renewable Energy" level= "5"></node>
-     <node name="Renewable Energy Equipment  Services" level= "5"></node>
-     <node name="Renewable Fuels" level= "5"></node>
-      </node>
-
-    <node name="Financial and Commodity Market Operators" level= "4">
-     <node name="Financials" level= "5"></node>
-     <node name="Insurance" level= "5"></node>
-     <node name="Investment Banking and Brokerage Services" level= "5"></node>
-     <node name="Investment Banking and Investment Services" level= "5"></node>
-     <node name="Investment Management and Fund Operators" level= "5"></node>
-     <node name="Investment Trusts" level= "5"></node>
-     <node name="Specialty Financials" level= "5"></node>
-     <node name="Specialty Investment Services" level= "5"></node>
-      </node>
-
-    <node name="Forest and Wood Products" level= "4">
-     <node name="Paper and Forest Products" level= "5">
-      <node name="Paper Packaging" level= "6"></node>
-      <node name="Paper Products" level= "6"></node>
+     <node name="Textiles and Apparel">
+      <node name="Textiles and Leather Goods"></node>
        </node>
 
       </node>
 
-    <node name="Healthcare" level= "4">
-     <node name="Advanced Medical Equipment" level= "5"></node>
-     <node name="Diversified Pharmaceuticals" level= "5"></node>
-     <node name="Generic and Specialty Pharmaceuticals" level= "5"></node>
-     <node name="Healthcare Equipment and Supplies" level= "5"></node>
-     <node name="Healthcare Facilities and Services" level= "5"></node>
-     <node name="Healthcare Providers and Services" level= "5"></node>
-     <node name="Healthcare Services" level= "5"></node>
-     <node name="Life and Health Insurance" level= "5"></node>
-     <node name="Managed Healthcare" level= "5"></node>
-     <node name="Medical Equipment, Supplies  Distribution" level= "5"></node>
-     <node name="Pharmaceuticals and Medical Research" level= "5"></node>
+    <node name="Energy">
+     <node name="Coal"></node>
+     <node name="Integrated Oil and Gas"></node>
+     <node name="Oil and Gas"></node>
+     <node name="Renewable Energy"></node>
+     <node name="Renewable Energy Equipment Services"></node>
+     <node name="Renewable Fuels"></node>
       </node>
 
-    <node name="Hotels, Motels and Cruise Lines" level= "4">
-     <node name="Hotels and Entertainment Services" level= "5"></node>
+    <node name="Financial and Commodity Market Operators">
+     <node name="Financials"></node>
+     <node name="Insurance"></node>
+     <node name="Investment Banking and Brokerage Services"></node>
+     <node name="Investment Banking and Investment Services"></node>
+     <node name="Investment Management and Fund Operators"></node>
+     <node name="Investment Trusts"></node>
+     <node name="Specialty Financials"></node>
+     <node name="Specialty Investment Services"></node>
       </node>
 
-    <node name="Industrial Goods" level= "4">
-     <node name="Industrial Conglomerates" level= "5"></node>
-      </node>
-
-    <node name="Manufacturing and Engineering" level= "4">
-     <node name="Aerospace and Defense" level= "5"></node>
-     <node name="Automobiles and Auto Parts" level= "5">
-      <node name="Auto, Truck and Motorcycle Parts" level= "6"></node>
-      <node name="Auto Vehicles Parts" level= "6"></node>
-      <node name="Service Retailers" level= "6"></node>
+    <node name="Forest and Wood Products">
+     <node name="Paper and Forest Products">
+      <node name="Paper Packaging"></node>
+      <node name="Paper Products"></node>
        </node>
 
-     <node name="Electrical Components and Equipment" level= "5">
-      <node name="Heavy Electrical Equipment" level= "6"></node>
+      </node>
+
+    <node name="Healthcare">
+     <node name="Advanced Medical Equipment"></node>
+     <node name="Diversified Pharmaceuticals"></node>
+     <node name="Generic and Specialty Pharmaceuticals"></node>
+     <node name="Healthcare Equipment and Supplies"></node>
+     <node name="Healthcare Facilities and Services"></node>
+     <node name="Healthcare Providers and Services"></node>
+     <node name="Healthcare Services"></node>
+     <node name="Life and Health Insurance"></node>
+     <node name="Managed Healthcare"></node>
+     <node name="Medical Equipment, Supplies Distribution"></node>
+     <node name="Pharmaceuticals and Medical Research"></node>
+      </node>
+
+    <node name="Hotels, Motels and Cruise Lines">
+     <node name="Hotels and Entertainment Services"></node>
+      </node>
+
+    <node name="Industrial Goods">
+     <node name="Industrial Conglomerates"></node>
+      </node>
+
+    <node name="Manufacturing and Engineering">
+     <node name="Aerospace and Defense"></node>
+     <node name="Automobiles and Auto Parts">
+      <node name="Auto, Truck and Motorcycle Parts"></node>
+      <node name="Auto Vehicles Parts"></node>
+      <node name="Service Retailers"></node>
        </node>
 
-     <node name="Highways and Rail Tracks" level= "5"></node>
-     <node name="Industrial Machinery and Equipment" level= "5">
-      <node name="Heavy Machinery and Vehicles" level= "6">
-       <node name="Machinery Equipment and Components" level= "7"></node>
+     <node name="Electrical Components and Equipment">
+      <node name="Heavy Electrical Equipment"></node>
+       </node>
+
+     <node name="Highways and Rail Tracks"></node>
+     <node name="Industrial Machinery and Equipment">
+      <node name="Heavy Machinery and Vehicles">
+       <node name="Machinery Equipment and Components"></node>
         </node>
 
-      <node name="Industrial Services" level= "6"></node>
-      <node name="Industrials" level= "6"></node>
-      <node name="Machinery Equipment and Components" level= "6"></node>
+      <node name="Industrial Services"></node>
+      <node name="Industrials"></node>
+      <node name="Machinery Equipment and Components"></node>
        </node>
 
       </node>
 
-    <node name="Media and Publishing" level= "4">
-     <node name="Advertising and Marketing" level= "5"></node>
-     <node name="Diversified Media" level= "5"></node>
-     <node name="Publishing" level= "5"></node>
+    <node name="Media and Publishing">
+     <node name="Advertising and Marketing"></node>
+     <node name="Diversified Media"></node>
+     <node name="Publishing"></node>
       </node>
 
-    <node name="Metals and Minerals" level= "4">
-     <node name="Aluminum" level= "5"></node>
-     <node name="Construction Materials" level= "5"></node>
-     <node name="Construction Supplies and Fixtures" level= "5"></node>
-     <node name="Homebuilding" level= "5"></node>
-     <node name="Metals and Mining" level= "5"></node>
-     <node name="Mineral Resources" level= "5"></node>
-     <node name="Precious Metals and Minerals" level= "5"></node>
-     <node name="Specialty Mining and Metals" level= "5"></node>
-     <node name="Steel" level= "5"></node>
+    <node name="Metals and Minerals">
+     <node name="Aluminum"></node>
+     <node name="Construction Materials"></node>
+     <node name="Construction Supplies and Fixtures"></node>
+     <node name="Homebuilding"></node>
+     <node name="Metals and Mining"></node>
+     <node name="Mineral Resources"></node>
+     <node name="Precious Metals and Minerals"></node>
+     <node name="Specialty Mining and Metals"></node>
+     <node name="Steel"></node>
       </node>
 
-    <node name="Oil and Gas Exploration and Production" level= "4">
-     <node name="Oil and Gas Transportation Services" level= "5"></node>
-     <node name="Oil Gas Drilling" level= "5"></node>
-     <node name="Oil and Gas Refining and Marketing" level= "5"></node>
-     <node name="Oil and Gas Related Equipment and Services" level= "5"></node>
-     <node name="Oil-related Services and Equipment" level= "5"></node>
+    <node name="Oil and Gas Exploration and Production">
+     <node name="Oil and Gas Transportation Services"></node>
+     <node name="Oil Gas Drilling"></node>
+     <node name="Oil and Gas Refining and Marketing"></node>
+     <node name="Oil and Gas Related Equipment and Services"></node>
+     <node name="Oil-related Services and Equipment"></node>
       </node>
 
-    <node name="Other Services" level= "4">
-     <node name="Commercial Services and Supplies" level= "5">
-      <node name="Commercial Printing Services" level= "6"></node>
+    <node name="Other Services">
+     <node name="Commercial Services and Supplies">
+      <node name="Commercial Printing Services"></node>
        </node>
 
-     <node name="Employment Services" level= "5"></node>
-     <node name="Environmental Services" level= "5"></node>
+     <node name="Employment Services"></node>
+     <node name="Environmental Services"></node>
       </node>
 
-    <node name="REITS" level= "4">
-     <node name="Commercial REITs" level= "5"></node>
-     <node name="Diversified REITs" level= "5"></node>
-     <node name="Real Estate Development and Operations" level= "5"></node>
-     <node name="Real Estate Operations" level= "5"></node>
-     <node name="Real Estate Services" level= "5"></node>
-     <node name="Residential and Commercial REITs" level= "5"></node>
-     <node name="Residential REITs" level= "5"></node>
+    <node name="REITS">
+     <node name="Commercial REITs"></node>
+     <node name="Diversified REITs"></node>
+     <node name="Real Estate Development and Operations"></node>
+     <node name="Real Estate Operations"></node>
+     <node name="Real Estate Services"></node>
+     <node name="Residential and Commercial REITs"></node>
+     <node name="Residential REITs"></node>
       </node>
 
-    <node name="Transportation" level= "4">
-     <node name="Air Freight and Courier Services" level= "5"></node>
-     <node name="Freight Transportation Ground" level= "5"></node>
-     <node name="Freight Transportation Marine" level= "5"></node>
-     <node name="Marine Port Services" level= "5">
-      <node name="Marine Services" level= "6"></node>
+    <node name="Transportation">
+     <node name="Air Freight and Courier Services"></node>
+     <node name="Freight Transportation Ground"></node>
+     <node name="Freight Transportation Marine"></node>
+     <node name="Marine Port Services">
+      <node name="Marine Services"></node>
        </node>
 
-     <node name="Passenger Transportation  Ground and Sea" level= "5"></node>
-     <node name="Transportation Ground" level= "5"></node>
+     <node name="Passenger Transportation  Ground and Sea"></node>
+     <node name="Transportation Ground"></node>
       </node>
 
-    <node name="Utilities" level= "4">
-     <node name="Electric Utilities" level= "5"></node>
-     <node name="Multiline Utilities" level= "5"></node>
-     <node name="Natural Gas Utilities" level= "5"></node>
-     <node name="Water and Other Utilities" level= "5"></node>
+    <node name="Utilities">
+     <node name="Electric Utilities"></node>
+     <node name="Multiline Utilities"></node>
+     <node name="Natural Gas Utilities"></node>
+     <node name="Water and Other Utilities"></node>
       </node>
 
      </node>
 
-   <node name="Central Banks" level= "3">
-    <node name="Bank of Canada" level= "4"></node>
-    <node name="Bank of England" level= "4"></node>
-    <node name="Bank of Japan" level= "4"></node>
-    <node name="Deutsche Bundesbank" level= "4"></node>
-    <node name="European Central Bank" level= "4"></node>
-    <node name="People's Bank of China" level= "4"></node>
-    <node name="Reserve Bank of Australia" level= "4"></node>
-    <node name="Schweizerische Nationalbank" level= "4"></node>
-    <node name="US Federal Reserve" level= "4"></node>
+   <node name="Central Banks">
+    <node name="Bank of Canada"></node>
+    <node name="Bank of England"></node>
+    <node name="Bank of Japan"></node>
+    <node name="Deutsche Bundesbank"></node>
+    <node name="European Central Bank"></node>
+    <node name="People's Bank of China"></node>
+    <node name="Reserve Bank of Australia"></node>
+    <node name="Schweizerische Nationalbank"></node>
+    <node name="US Federal Reserve"></node>
      </node>
 
-   <node name="Group of States" level= "3">
-    <node name="European Union" level= "4"></node>
-    <node name="G20" level= "4"></node>
-    <node name="G7" level= "4"></node>
-    <node name="G8" level= "4"></node>
+   <node name="Group of States">
+    <node name="European Union"></node>
+    <node name="G20"></node>
+    <node name="G7"></node>
+    <node name="G8"></node>
      </node>
 
-   <node name="Industrial Sectors" level= "3">
-    <node name="Chemicals" level= "4">
-     <node name="Biotechnology" level= "5"></node>
-     <node name="Pharmaceuticals" level= "5">
-      <node name="Generic Pharmaceuticals" level= "6"></node>
-      <node name="Medical Research" level= "6"></node>
-      <node name="Specialty Pharmaceuticals" level= "6"></node>
+   <node name="Industrial Sectors">
+    <node name="Chemicals">
+     <node name="Biotechnology"></node>
+     <node name="Pharmaceuticals">
+      <node name="Generic Pharmaceuticals"></node>
+      <node name="Medical Research"></node>
+      <node name="Specialty Pharmaceuticals"></node>
        </node>
 
       </node>
 
-    <node name="Computers and Office Equipment" level= "4">
-     <node name="Computers and Household Electronics" level= "5">
-      <node name="Household Electronics" level= "6"></node>
-      <node name="Computer Hardware" level= "6"></node>
-      <node name="Handled Devices" level= "6"></node>
+    <node name="Computers and Office Equipment">
+     <node name="Computers and Household Electronics">
+      <node name="Household Electronics"></node>
+      <node name="Computer Hardware"></node>
+      <node name="Handled Devices"></node>
        </node>
 
-     <node name="Office Equipment" level= "5"></node>
+     <node name="Office Equipment"></node>
       </node>
 
-    <node name="Computing and Information Technology" level= "4">
-     <node name="Games Software" level= "5"></node>
-     <node name="Software and IT Services" level= "5">
-      <node name="Software" level= "6"></node>
+    <node name="Computing and Information Technology">
+     <node name="Games Software"></node>
+     <node name="Software and IT Services">
+      <node name="Software"></node>
        </node>
 
-     <node name="Telecommunications Services" level= "5"></node>
+     <node name="Telecommunications Services"></node>
       </node>
 
-    <node name="Consumer Goods" level= "4">
-     <node name="Beverages" level= "5"></node>
-     <node name="Household Goods" level= "5">
-      <node name="Consumer Electronics" level= "6"></node>
-       </node>
-
-      </node>
-
-    <node name="Energy" level= "4">
-     <node name="Energy Related Equipment" level= "5"></node>
-     <node name="Energy Related Services" level= "5"></node>
-      </node>
-
-    <node name="Financials" level= "4"></node>
-    <node name="Hotels and Entertainment Services" level= "4">
-     <node name="Bars" level= "5"></node>
-     <node name="Casinos" level= "5"></node>
-     <node name="Cruise Lines" level= "5"></node>
-     <node name="Gaming" level= "5"></node>
-     <node name="Hotels" level= "5"></node>
-     <node name="Motels" level= "5"></node>
-      </node>
-
-    <node name="Insurance" level= "4"></node>
-    <node name="Leisure Products" level= "4">
-     <node name="Juvenile Products" level= "5"></node>
-     <node name="Recreational Products" level= "5"></node>
-     <node name="Toys Products" level= "5"></node>
-      </node>
-
-    <node name="Manufacturing and Engineering" level= "4">
-     <node name="Aerospace and Defense" level= "5">
-      <node name="Aerospace" level= "6"></node>
-      <node name="Defence" level= "6"></node>
-       </node>
-
-     <node name="Automobiles and Auto Parts" level= "5">
-      <node name="Auto  Manufacturers" level= "6"></node>
-      <node name="Auto Parts" level= "6"></node>
-      <node name="Motorcycle Parts" level= "6"></node>
-      <node name="Rubber Products" level= "6"></node>
-      <node name="Tires Products" level= "6"></node>
-      <node name="Truck Manufacturers" level= "6"></node>
-      <node name="Truck Parts" level= "6"></node>
-       </node>
-
-     <node name="Construction and Engineering" level= "5">
-      <node name="Construction" level= "6"></node>
-      <node name="Engineering" level= "6"></node>
-       </node>
-
-     <node name="Machinery Equipment  Components" level= "5">
-      <node name="Electrical Components" level= "6"></node>
-      <node name="Electrical Equipment" level= "6"></node>
-      <node name="Industrial Equipment" level= "6"></node>
-      <node name="Industrial Machinery" level= "6"></node>
-       </node>
-
-     <node name="Real Estate" level= "5"></node>
-     <node name="Semiconductors and Semiconductor Equipment" level= "5">
-      <node name="Semiconductor Equipment" level= "6"></node>
-      <node name="Semiconductor Testing" level= "6"></node>
-      <node name="Semiconductors" level= "6"></node>
+    <node name="Consumer Goods">
+     <node name="Beverages"></node>
+     <node name="Household Goods">
+      <node name="Consumer Electronics"></node>
        </node>
 
       </node>
 
-    <node name="Media and Publishing" level= "4">
-     <node name="Advertising" level= "5"></node>
-     <node name="Broadcasting" level= "5"></node>
-     <node name="Entertainment Production" level= "5"></node>
-     <node name="Marketing" level= "5"></node>
+    <node name="Energy">
+     <node name="Energy Related Equipment"></node>
+     <node name="Energy Related Services"></node>
       </node>
 
-    <node name="Metals and Mining" level= "4">
-     <node name="Minerals" level= "5"></node>
-     <node name="Precious Metals" level= "5"></node>
-     <node name="Speciality Metals" level= "5"></node>
-     <node name="Speciality Mining" level= "5"></node>
-     <node name="Steel" level= "5"></node>
+    <node name="Financials"></node>
+    <node name="Hotels and Entertainment Services">
+     <node name="Bars"></node>
+     <node name="Casinos"></node>
+     <node name="Cruise Lines"></node>
+     <node name="Gaming"></node>
+     <node name="Hotels"></node>
+     <node name="Motels"></node>
       </node>
 
-    <node name="Multi-Industry" level= "4"></node>
-    <node name="Process Industry" level= "4">
-     <node name="Food and Tobacco" level= "5">
-      <node name="Farming" level= "6"></node>
-      <node name="Fishing" level= "6"></node>
-      <node name="Food Processing" level= "6"></node>
+    <node name="Insurance"></node>
+    <node name="Leisure Products">
+     <node name="Juvenile Products"></node>
+     <node name="Recreational Products"></node>
+     <node name="Toys Products"></node>
+      </node>
+
+    <node name="Manufacturing and Engineering">
+     <node name="Aerospace and Defense">
+      <node name="Aerospace"></node>
+      <node name="Defence"></node>
        </node>
 
-     <node name="Paper and Forest Products" level= "5">
-      <node name="Forest Products" level= "6"></node>
-      <node name="Paper Products" level= "6"></node>
-      <node name="Wood Products" level= "6"></node>
+     <node name="Automobiles and Auto Parts">
+      <node name="Auto  Manufacturers"></node>
+      <node name="Auto Parts"></node>
+      <node name="Motorcycle Parts"></node>
+      <node name="Rubber Products"></node>
+      <node name="Tires Products"></node>
+      <node name="Truck Manufacturers"></node>
+      <node name="Truck Parts"></node>
        </node>
 
-     <node name="Textiles and Apparel" level= "5">
-      <node name="Accessories" level= "6"></node>
-      <node name="Apparel" level= "6"></node>
-      <node name="Footwear" level= "6"></node>
-      <node name="Leather Goods" level= "6"></node>
-      <node name="Textiles" level= "6"></node>
+     <node name="Construction and Engineering">
+      <node name="Construction"></node>
+      <node name="Engineering"></node>
+       </node>
+
+     <node name="Machinery Equipment Components">
+      <node name="Electrical Components"></node>
+      <node name="Electrical Equipment"></node>
+      <node name="Industrial Equipment"></node>
+      <node name="Industrial Machinery"></node>
+       </node>
+
+     <node name="Real Estate"></node>
+     <node name="Semiconductors and Semiconductor Equipment">
+      <node name="Semiconductor Equipment"></node>
+      <node name="Semiconductor Testing"></node>
+      <node name="Semiconductors"></node>
        </node>
 
       </node>
 
-    <node name="Rails and Roads Transportation" level= "4"></node>
-    <node name="Services" level= "4">
-     <node name="Airline Services" level= "5"></node>
-     <node name="Banking Services" level= "5"></node>
-     <node name="Business and Public Services" level= "5"></node>
-     <node name="Marine Services" level= "5"></node>
+    <node name="Media and Publishing">
+     <node name="Advertising"></node>
+     <node name="Broadcasting"></node>
+     <node name="Entertainment Production"></node>
+     <node name="Marketing"></node>
       </node>
 
-    <node name="Homebuilding and Construction Supplies" level= "4">
-     <node name="Construction Fittings" level= "5"></node>
-     <node name="Construction Supplies" level= "5"></node>
-     <node name="Homebuilding" level= "5"></node>
-     <node name="Miscellaneous Materials" level= "5"></node>
+    <node name="Metals and Mining">
+     <node name="Minerals"></node>
+     <node name="Precious Metals"></node>
+     <node name="Speciality Metals"></node>
+     <node name="Speciality Mining"></node>
+     <node name="Steel"></node>
       </node>
 
-    <node name="Trading" level= "4">
-     <node name="Diversified Trading  Distributing" level= "5"></node>
-     <node name="Retailers" level= "5"></node>
+    <node name="Multi-Industry"></node>
+    <node name="Process Industry">
+     <node name="Food and Tobacco">
+      <node name="Farming"></node>
+      <node name="Fishing"></node>
+      <node name="Food Processing"></node>
+       </node>
+
+     <node name="Paper and Forest Products">
+      <node name="Forest Products"></node>
+      <node name="Paper Products"></node>
+      <node name="Wood Products"></node>
+       </node>
+
+     <node name="Textiles and Apparel">
+      <node name="Accessories"></node>
+      <node name="Apparel"></node>
+      <node name="Footwear"></node>
+      <node name="Leather Goods"></node>
+      <node name="Textiles"></node>
+       </node>
+
       </node>
 
-    <node name="Utilities" level= "4">
-     <node name="Electric Utilities" level= "5"></node>
-     <node name="Independent Power Producers" level= "5"></node>
-     <node name="Multiline Utilities" level= "5"></node>
-     <node name="Other Utilities" level= "5"></node>
-     <node name="Water Utilities" level= "5"></node>
+    <node name="Rails and Roads Transportation"></node>
+    <node name="Services">
+     <node name="Airline Services"></node>
+     <node name="Banking Services"></node>
+     <node name="Business and Public Services"></node>
+     <node name="Marine Services"></node>
+      </node>
+
+    <node name="Homebuilding and Construction Supplies">
+     <node name="Construction Fittings"></node>
+     <node name="Construction Supplies"></node>
+     <node name="Homebuilding"></node>
+     <node name="Miscellaneous Materials"></node>
+      </node>
+
+    <node name="Trading">
+     <node name="Diversified Trading  Distributing"></node>
+     <node name="Retailers"></node>
+      </node>
+
+    <node name="Utilities">
+     <node name="Electric Utilities"></node>
+     <node name="Independent Power Producers"></node>
+     <node name="Multiline Utilities"></node>
+     <node name="Other Utilities"></node>
+     <node name="Water Utilities"></node>
       </node>
 
      </node>
 
     </node>
 
-  <node name="Story Types and Filters" level= "2">
-   <node name="Filters" level= "3">
-    <node name="Buy or Sell" level= "4"></node>
-    <node name="Dealtalk" level= "4"></node>
-    <node name="Diaries" level= "4"></node>
-    <node name="Factboxes" level= "4"></node>
-    <node name="Features" level= "4"></node>
-    <node name="Highlights" level= "4"></node>
-    <node name="Mobile Devices" level= "4"></node>
-    <node name="Newsmakers" level= "4"></node>
-    <node name="Polls" level= "4"></node>
-    <node name="Press Digests" level= "4"></node>
-    <node name="Previews Schedules Diaries" level= "4"></node>
-    <node name="Previews" level= "4"></node>
-    <node name="Q+A" level= "4"></node>
-    <node name="Reuters Polls" level= "4"></node>
-    <node name="Scenarios" level= "4"></node>
-    <node name="Schedules" level= "4"></node>
-    <node name="Snap Analyses" level= "4"></node>
-    <node name="Snapshots" level= "4"></node>
-    <node name="Subscriber Information" level= "4"></node>
-    <node name="Take a Look" level= "4"></node>
-    <node name="Technical Analyses" level= "4"></node>
-    <node name="Texts" level= "4"></node>
-    <node name="Timelines" level= "4"></node>
-    <node name="Transcripts" level= "4"></node>
-    <node name="Travel Postcards" level= "4"></node>
-    <node name="Verbatim" level= "4"></node>
-    <node name="Viewpoints" level= "4"></node>
-    <node name="Witness" level= "4"></node>
-    <node name="Wrapups" level= "4"></node>
+  <node name="Story Types and Filters">
+   <node name="Filters">
+    <node name="Buy or Sell"></node>
+    <node name="Dealtalk"></node>
+    <node name="Diaries"></node>
+    <node name="Factboxes"></node>
+    <node name="Features"></node>
+    <node name="Highlights"></node>
+    <node name="Mobile Devices"></node>
+    <node name="Newsmakers"></node>
+    <node name="Polls"></node>
+    <node name="Press Digests"></node>
+    <node name="Previews Schedules Diaries"></node>
+    <node name="Previews"></node>
+    <node name="Q+A"></node>
+    <node name="Reuters Polls"></node>
+    <node name="Scenarios"></node>
+    <node name="Schedules"></node>
+    <node name="Snap Analyses"></node>
+    <node name="Snapshots"></node>
+    <node name="Subscriber Information"></node>
+    <node name="Take a Look"></node>
+    <node name="Technical Analyses"></node>
+    <node name="Texts"></node>
+    <node name="Timelines"></node>
+    <node name="Transcripts"></node>
+    <node name="Travel Postcards"></node>
+    <node name="Verbatim"></node>
+    <node name="Viewpoints"></node>
+    <node name="Witness"></node>
+    <node name="Wrapups"></node>
      </node>
 
-   <node name="Story Type" level= "3">
-    <node name="Advisories" level= "4"></node>
-    <node name="Analyses" level= "4"></node>
-    <node name="Analyses or Viewpoints" level= "4"></node>
-    <node name="Blogs" level= "4"></node>
-    <node name="Breaking News" level= "4"></node>
-    <node name="Commentaries" level= "4"></node>
-    <node name="Context Top News" level= "4"></node>
-    <node name="Corporate News Releases" level= "4"></node>
-    <node name="Enterprise Reporting" level= "4"></node>
-    <node name="Fund Views" level= "4"></node>
-    <node name="General News Releases" level= "4"></node>
-    <node name="Instant Views" level= "4"></node>
-    <node name="Interviews" level= "4"></node>
-    <node name="Market Reports" level= "4"></node>
-    <node name="Obituaries" level= "4"></node>
-    <node name="Other Spot Stories" level= "4"></node>
-    <node name="Research Alerts" level= "4"></node>
-    <node name="Reuters Breakingviews" level= "4"></node>
-    <node name="Reuters Top News" level= "4"></node>
-    <node name="Special Reports" level= "4"></node>
-    <node name="The Day Ahead" level= "4"></node>
-    <node name="The Week Ahead" level= "4"></node>
-    <node name="Top News" level= "4"></node>
-     </node>
-
-    </node>
-
-  <node name="Places" level= "2">
-   <node name="Countries" level= "3">
-    <node name="Afghanistan" level= "4"></node>
-    <node name="Albania" level= "4"></node>
-    <node name="Algeria" level= "4"></node>
-    <node name="American Samoa" level= "4"></node>
-    <node name="Antarctica" level= "4"></node>
-    <node name="Andorra" level= "4"></node>
-    <node name="Angola" level= "4"></node>
-    <node name="Anguilla" level= "4"></node>
-    <node name="Antigua and Barbuda" level= "4"></node>
-    <node name="Argentina" level= "4"></node>
-    <node name="Armenia" level= "4"></node>
-    <node name="Aruba" level= "4"></node>
-    <node name="Austria" level= "4"></node>
-    <node name="Azerbaijan" level= "4"></node>
-    <node name="Bahamas" level= "4"></node>
-    <node name="Bahrain" level= "4"></node>
-    <node name="Bangladesh" level= "4"></node>
-    <node name="Barbados" level= "4"></node>
-    <node name="Belarus" level= "4"></node>
-    <node name="Belgium" level= "4"></node>
-    <node name="Belize" level= "4"></node>
-    <node name="Benin" level= "4"></node>
-    <node name="Bermuda" level= "4"></node>
-    <node name="Bhutan" level= "4"></node>
-    <node name="Bolivia" level= "4"></node>
-    <node name="Bosnia and Herzegovina" level= "4"></node>
-    <node name="Botswana" level= "4"></node>
-    <node name="Bouvet Island" level= "4"></node>
-    <node name="Brazil" level= "4"></node>
-    <node name="British Indian Ocean Territory" level= "4"></node>
-    <node name="British Virgin Islands" level= "4"></node>
-    <node name="Brunei" level= "4"></node>
-    <node name="Bulgaria" level= "4"></node>
-    <node name="Burkina Faso" level= "4"></node>
-    <node name="Burundi" level= "4"></node>
-    <node name="Cambodia" level= "4"></node>
-    <node name="Cameroon" level= "4"></node>
-    <node name="Canada" level= "4"></node>
-    <node name="Cape Verde" level= "4"></node>
-    <node name="Cayman Islands" level= "4"></node>
-    <node name="Central African Republic" level= "4"></node>
-    <node name="Chad" level= "4"></node>
-    <node name="Chile" level= "4"></node>
-    <node name="China" level= "4"></node>
-    <node name="Christmas Island" level= "4"></node>
-    <node name="Cocos (Keeling) Islands" level= "4"></node>
-    <node name="Colombia" level= "4"></node>
-    <node name="Comoros" level= "4"></node>
-    <node name="Congo Brazzaville" level= "4"></node>
-    <node name="Congo-Kinshasa" level= "4"></node>
-    <node name="Cook Islands" level= "4"></node>
-    <node name="Costa Rica" level= "4"></node>
-    <node name="South Korea" level= "4"></node>
-    <node name="Croatia" level= "4"></node>
-    <node name="Cuba" level= "4"></node>
-    <node name="Cyprus" level= "4"></node>
-    <node name="Czech Republic" level= "4"></node>
-    <node name="Denmark" level= "4"></node>
-    <node name="Djibouti" level= "4"></node>
-    <node name="Dominica" level= "4"></node>
-    <node name="Dominican Republic" level= "4"></node>
-    <node name="East Timor" level= "4"></node>
-    <node name="Ecuador" level= "4"></node>
-    <node name="Egypt" level= "4"></node>
-    <node name="El Salvador" level= "4"></node>
-    <node name="England" level= "4"></node>
-    <node name="Equatorial Guinea" level= "4"></node>
-    <node name="Eritrea" level= "4"></node>
-    <node name="Estonia" level= "4"></node>
-    <node name="Ethiopia" level= "4"></node>
-    <node name="Falkland Islands" level= "4"></node>
-    <node name="Faroe Islands" level= "4"></node>
-    <node name="Fiji" level= "4"></node>
-    <node name="Finland" level= "4"></node>
-    <node name="France" level= "4"></node>
-    <node name="French Guiana" level= "4"></node>
-    <node name="French Polynesia" level= "4"></node>
-    <node name="French Southern Territories" level= "4"></node>
-    <node name="Gabon" level= "4"></node>
-    <node name="Gambia" level= "4"></node>
-    <node name="Georgia" level= "4"></node>
-    <node name="Germany" level= "4"></node>
-    <node name="Ghana" level= "4"></node>
-    <node name="Gibraltar" level= "4"></node>
-    <node name="Greece" level= "4"></node>
-    <node name="Greenland" level= "4"></node>
-    <node name="Grenada" level= "4"></node>
-    <node name="Guadeloupe" level= "4"></node>
-    <node name="Guam" level= "4"></node>
-    <node name="Guatemala" level= "4"></node>
-    <node name="Guernsey" level= "4"></node>
-    <node name="Guinea" level= "4"></node>
-    <node name="Guinea Bissau" level= "4"></node>
-    <node name="Guyana" level= "4"></node>
-    <node name="Haiti" level= "4"></node>
-    <node name="Heard and McDonald Islands" level= "4"></node>
-    <node name="Honduras" level= "4"></node>
-    <node name="Hong Kong" level= "4"></node>
-    <node name="Hungary" level= "4"></node>
-    <node name="Iceland" level= "4"></node>
-    <node name="India" level= "4"></node>
-    <node name="Indonesia" level= "4"></node>
-    <node name="Iran" level= "4"></node>
-    <node name="Iraq" level= "4"></node>
-    <node name="Ireland" level= "4"></node>
-    <node name="Isle of Man" level= "4"></node>
-    <node name="Israel" level= "4"></node>
-    <node name="Italy" level= "4"></node>
-    <node name="Ivory Coast" level= "4"></node>
-    <node name="Jamaica" level= "4"></node>
-    <node name="Japan" level= "4"></node>
-    <node name="Jersey" level= "4"></node>
-    <node name="Jordan" level= "4"></node>
-    <node name="Kazakhstan" level= "4"></node>
-    <node name="Kenya" level= "4"></node>
-    <node name="Kiribati" level= "4"></node>
-    <node name="Kosovo" level= "4"></node>
-    <node name="Kuwait" level= "4"></node>
-    <node name="Kyrgyzstan" level= "4"></node>
-    <node name="Laos" level= "4"></node>
-    <node name="Latvia" level= "4"></node>
-    <node name="Lebanon" level= "4"></node>
-    <node name="Lesotho" level= "4"></node>
-    <node name="Liberia" level= "4"></node>
-    <node name="Libya" level= "4"></node>
-    <node name="Liechtenstein" level= "4"></node>
-    <node name="Lithuania" level= "4"></node>
-    <node name="Luxembourg" level= "4"></node>
-    <node name="Macau" level= "4"></node>
-    <node name="Macedonia" level= "4"></node>
-    <node name="Madagascar" level= "4"></node>
-    <node name="Malawi" level= "4"></node>
-    <node name="Malaysia" level= "4"></node>
-    <node name="Maldives" level= "4"></node>
-    <node name="Mali" level= "4"></node>
-    <node name="Malta" level= "4"></node>
-    <node name="Marshall Islands" level= "4"></node>
-    <node name="Martinique" level= "4"></node>
-    <node name="Mauritania" level= "4"></node>
-    <node name="Mauritius" level= "4"></node>
-    <node name="Mexico" level= "4"></node>
-    <node name="Micronesia" level= "4"></node>
-    <node name="Moldova" level= "4"></node>
-    <node name="Monaco" level= "4"></node>
-    <node name="Mongolia" level= "4"></node>
-    <node name="Montenegro" level= "4"></node>
-    <node name="Montserrat" level= "4"></node>
-    <node name="Morocco" level= "4"></node>
-    <node name="Mozambique" level= "4"></node>
-    <node name="Myanmar" level= "4"></node>
-    <node name="Namibia" level= "4"></node>
-    <node name="Nauru" level= "4"></node>
-    <node name="Nepal" level= "4"></node>
-    <node name="Netherlands" level= "4"></node>
-    <node name="New Caledonia" level= "4"></node>
-    <node name="Nicaragua" level= "4"></node>
-    <node name="Niger" level= "4"></node>
-    <node name="Nigeria" level= "4"></node>
-    <node name="Niue" level= "4"></node>
-    <node name="North Korea" level= "4"></node>
-    <node name="Northern Ireland" level= "4"></node>
-    <node name="Norfolk Island" level= "4"></node>
-    <node name="Norway" level= "4"></node>
-    <node name="Oman" level= "4"></node>
-    <node name="Pakistan" level= "4"></node>
-    <node name="Palau" level= "4"></node>
-    <node name="Palestinian Territories" level= "4"></node>
-    <node name="Panama" level= "4"></node>
-    <node name="Papua New Guinea" level= "4"></node>
-    <node name="Paraguay" level= "4"></node>
-    <node name="Peru" level= "4"></node>
-    <node name="Philippines" level= "4"></node>
-    <node name="Pitcairn" level= "4"></node>
-    <node name="Poland" level= "4"></node>
-    <node name="Portugal" level= "4"></node>
-    <node name="Puerto Rico" level= "4"></node>
-    <node name="Qatar" level= "4"></node>
-    <node name="Réunion" level= "4"></node>
-    <node name="Romania" level= "4"></node>
-    <node name="Russia" level= "4"></node>
-    <node name="Rwanda" level= "4"></node>
-    <node name="Saint Helena, Ascension and Tristan da Cunha" level= "4"></node>
-    <node name="Samoa" level= "4"></node>
-    <node name="San Marino" level= "4"></node>
-    <node name="Sao Tome and Principe" level= "4"></node>
-    <node name="Saudi Arabia" level= "4"></node>
-    <node name="Scotland" level= "4"></node>
-    <node name="Senegal" level= "4"></node>
-    <node name="Serbia" level= "4"></node>
-    <node name="Seychelles" level= "4"></node>
-    <node name="Sierra Leone" level= "4"></node>
-    <node name="Singapore" level= "4"></node>
-    <node name="Slovakia" level= "4"></node>
-    <node name="Slovenia" level= "4"></node>
-    <node name="Solomon Islands" level= "4"></node>
-    <node name="Somalia" level= "4"></node>
-    <node name="South Africa" level= "4"></node>
-    <node name="South Georgia and South Sandwich Islands" level= "4"></node>
-    <node name="South Sudan" level= "4"></node>
-    <node name="Spain" level= "4"></node>
-    <node name="Sri Lanka" level= "4"></node>
-    <node name="St. Kitts and Nevis" level= "4"></node>
-    <node name="St. Lucia" level= "4"></node>
-    <node name="St. Pierre and Miquelon" level= "4"></node>
-    <node name="St. Vincent and the Grenadines" level= "4"></node>
-    <node name="Sudan" level= "4"></node>
-    <node name="Sudan (Pre-Partition)" level= "4"></node>
-    <node name="Suriname" level= "4"></node>
-    <node name="Svalbard and Jan Mayen" level= "4"></node>
-    <node name="Swaziland" level= "4"></node>
-    <node name="Sweden" level= "4"></node>
-    <node name="Switzerland" level= "4"></node>
-    <node name="Syria" level= "4"></node>
-    <node name="Taiwan" level= "4"></node>
-    <node name="Tajikistan" level= "4"></node>
-    <node name="Tanzania" level= "4"></node>
-    <node name="Thailand" level= "4"></node>
-    <node name="Togo" level= "4"></node>
-    <node name="Tokelau" level= "4"></node>
-    <node name="Tonga" level= "4"></node>
-    <node name="Trinidad and Tobago" level= "4"></node>
-    <node name="Tunisia" level= "4"></node>
-    <node name="Turkey" level= "4"></node>
-    <node name="Turkmenistan" level= "4"></node>
-    <node name="Turks and Caicos Islands" level= "4"></node>
-    <node name="Tuvalu" level= "4"></node>
-    <node name="U.S. Virgin Islands" level= "4"></node>
-    <node name="Uganda" level= "4"></node>
-    <node name="Ukraine" level= "4"></node>
-    <node name="United Arab Emirates" level= "4"></node>
-    <node name="United Kingdom" level= "4"></node>
-    <node name="United States" level= "4"></node>
-    <node name="United States Minor Outlying Islands" level= "4"></node>
-    <node name="Uruguay" level= "4"></node>
-    <node name="Uzbekistan" level= "4"></node>
-    <node name="Vanuatu" level= "4"></node>
-    <node name="Vatican City" level= "4"></node>
-    <node name="Venezuela" level= "4"></node>
-    <node name="Vietnam" level= "4"></node>
-    <node name="Wales" level= "4"></node>
-    <node name="Wallis and Futuna" level= "4"></node>
-    <node name="Western Sahara" level= "4"></node>
-    <node name="Yemen" level= "4"></node>
-    <node name="Zambia" level= "4"></node>
-    <node name="Zimbabwe" level= "4"></node>
-     </node>
-
-   <node name="Country Subdivisions" level= "3">
-    <node name="Alabama" level= "4"></node>
-    <node name="Alaska" level= "4"></node>
-    <node name="Arizona" level= "4"></node>
-    <node name="Arkansas" level= "4"></node>
-    <node name="California" level= "4"></node>
-    <node name="Colorado" level= "4"></node>
-    <node name="Connecticut" level= "4"></node>
-    <node name="Delaware" level= "4"></node>
-    <node name="District of Columbia" level= "4"></node>
-    <node name="Florida" level= "4"></node>
-    <node name="Hawaii" level= "4"></node>
-    <node name="Idaho" level= "4"></node>
-    <node name="Illinois" level= "4"></node>
-    <node name="Indiana" level= "4"></node>
-    <node name="Iowa" level= "4"></node>
-    <node name="Kansas" level= "4"></node>
-    <node name="Kentucky" level= "4"></node>
-    <node name="Louisiana" level= "4"></node>
-    <node name="Maine" level= "4"></node>
-    <node name="Maryland" level= "4"></node>
-    <node name="Massachusetts" level= "4"></node>
-    <node name="Michigan" level= "4"></node>
-    <node name="Minnesota" level= "4"></node>
-    <node name="Mississippi" level= "4"></node>
-    <node name="Missouri" level= "4"></node>
-    <node name="Montana" level= "4"></node>
-    <node name="Nebraska" level= "4"></node>
-    <node name="Nevada" level= "4"></node>
-    <node name="New Hampshire" level= "4"></node>
-    <node name="New Jersey" level= "4"></node>
-    <node name="New Mexico" level= "4"></node>
-    <node name="New York" level= "4"></node>
-    <node name="North Carolina" level= "4"></node>
-    <node name="North Dakota" level= "4"></node>
-    <node name="Ohio" level= "4"></node>
-    <node name="Oklahoma" level= "4"></node>
-    <node name="Oregon" level= "4"></node>
-    <node name="Pennsylvania" level= "4"></node>
-    <node name="Rhode Island" level= "4"></node>
-    <node name="South Carolina" level= "4"></node>
-    <node name="South Dakota" level= "4"></node>
-    <node name="Tennessee" level= "4"></node>
-    <node name="Texas" level= "4"></node>
-    <node name="Utah" level= "4"></node>
-    <node name="Vermont" level= "4"></node>
-    <node name="Virginia" level= "4"></node>
-    <node name="Washington" level= "4"></node>
-    <node name="West Virginia" level= "4"></node>
-    <node name="Wisconsin" level= "4"></node>
-    <node name="Wyoming" level= "4"></node>
-     </node>
-
-   <node name="Regions" level= "3">
-    <node name="Africa" level= "4">
-     <node name="Algeria" level= "5"></node>
-     <node name="Angola" level= "5"></node>
-     <node name="Benin" level= "5"></node>
-     <node name="Botswana" level= "5"></node>
-     <node name="Burkina Faso" level= "5"></node>
-     <node name="Burundi" level= "5"></node>
-     <node name="Cameroon" level= "5"></node>
-     <node name="Cape Verde" level= "5"></node>
-     <node name="Central African Republic" level= "5"></node>
-     <node name="Chad" level= "5"></node>
-     <node name="Congo Brazzaville" level= "5"></node>
-     <node name="Congo-Kinshasa" level= "5"></node>
-     <node name="Djibouti" level= "5"></node>
-     <node name="Egypt" level= "5"></node>
-     <node name="Equatorial Guinea" level= "5"></node>
-     <node name="Eritrea" level= "5"></node>
-     <node name="Ethiopia" level= "5"></node>
-     <node name="Gabon" level= "5"></node>
-     <node name="Gambia" level= "5"></node>
-     <node name="Ghana" level= "5"></node>
-     <node name="Guatemala" level= "5"></node>
-     <node name="Guinea" level= "5"></node>
-     <node name="Ivory Coast" level= "5"></node>
-     <node name="Kenya" level= "5"></node>
-     <node name="Lesotho" level= "5"></node>
-     <node name="Liberia" level= "5"></node>
-     <node name="Libya" level= "5"></node>
-     <node name="Madagascar" level= "5"></node>
-     <node name="Mali" level= "5"></node>
-     <node name="Mauritania" level= "5"></node>
-     <node name="Mauritius" level= "5"></node>
-     <node name="Morocco" level= "5"></node>
-     <node name="Mozambique" level= "5"></node>
-     <node name="Namibia" level= "5"></node>
-     <node name="Niger" level= "5"></node>
-     <node name="Nigeria" level= "5"></node>
-     <node name="Réunion" level= "5"></node>
-     <node name="Rwanda" level= "5"></node>
-     <node name="Sao Tome and Principe" level= "5"></node>
-     <node name="Senegal" level= "5"></node>
-     <node name="Seychelles" level= "5"></node>
-     <node name="Sierra Leone" level= "5"></node>
-     <node name="Somalia" level= "5"></node>
-     <node name="South Africa" level= "5"></node>
-     <node name="Sudan" level= "5"></node>
-     <node name="Swaziland" level= "5"></node>
-     <node name="Tanzania" level= "5"></node>
-     <node name="Togo" level= "5"></node>
-     <node name="Tunisia" level= "5"></node>
-     <node name="Uganda" level= "5"></node>
-     <node name="Zambia" level= "5"></node>
-     <node name="Zimbabwe" level= "5"></node>
-      </node>
-
-    <node name="Baltic States" level= "4"></node>
-    <node name="Central America" level= "4"></node>
-    <node name="Central Europe" level= "4">
-     <node name="Austria" level= "5"></node>
-     <node name="Czech Republic" level= "5"></node>
-     <node name="Germany" level= "5"></node>
-     <node name="Hungary" level= "5"></node>
-     <node name="Liechtenstein" level= "5"></node>
-     <node name="Poland" level= "5"></node>
-     <node name="Slovakia" level= "5"></node>
-     <node name="Slovenia" level= "5"></node>
-     <node name="Switzerland" level= "5"></node>
-      </node>
-
-    <node name="CIS Countries" level= "4"></node>
-    <node name="Eastern Europe" level= "4">
-     <node name="Belarus" level= "5"></node>
-     <node name="Estonia" level= "5"></node>
-     <node name="Latvia" level= "5"></node>
-     <node name="Lithuania" level= "5"></node>
-     <node name="Russia" level= "5"></node>
-     <node name="Ukraine" level= "5"></node>
-      </node>
-
-    <node name="Emerging Market Countries" level= "4"></node>
-    <node name="Europe" level= "4">
-     <node name="Albania" level= "5"></node>
-     <node name="Andorra" level= "5"></node>
-     <node name="Armenia" level= "5"></node>
-     <node name="Austria" level= "5"></node>
-     <node name="Azerbaijan" level= "5"></node>
-     <node name="Belarus" level= "5"></node>
-     <node name="Belgium" level= "5"></node>
-     <node name="Bosnia and Herzegovina" level= "5"></node>
-     <node name="Bulgaria" level= "5"></node>
-     <node name="Croatia" level= "5"></node>
-     <node name="Cyprus" level= "5"></node>
-     <node name="Czech Republic" level= "5"></node>
-     <node name="Denmark" level= "5"></node>
-     <node name="Estonia" level= "5"></node>
-     <node name="Finland" level= "5"></node>
-     <node name="France" level= "5"></node>
-     <node name="Georgia" level= "5"></node>
-     <node name="Germany" level= "5"></node>
-     <node name="Great Britain" level= "5"></node>
-     <node name="Greece" level= "5"></node>
-     <node name="Hungary" level= "5"></node>
-     <node name="Iceland" level= "5"></node>
-     <node name="Ireland" level= "5"></node>
-     <node name="Italy" level= "5"></node>
-     <node name="Latvia" level= "5"></node>
-     <node name="Liechtenstein" level= "5"></node>
-     <node name="Lithuania" level= "5"></node>
-     <node name="Luxembourg" level= "5"></node>
-     <node name="Macedonia" level= "5"></node>
-     <node name="Malta" level= "5"></node>
-     <node name="Moldova" level= "5"></node>
-     <node name="Monaco" level= "5"></node>
-     <node name="Montenegro" level= "5"></node>
-     <node name="Netherlands" level= "5"></node>
-     <node name="Norway" level= "5"></node>
-     <node name="Poland" level= "5"></node>
-     <node name="Portugal" level= "5"></node>
-     <node name="Russia" level= "5"></node>
-     <node name="San Marino" level= "5"></node>
-     <node name="Serbia" level= "5"></node>
-     <node name="Slovakia" level= "5"></node>
-     <node name="Slovenia" level= "5"></node>
-      </node>
-
-    <node name="Eurozone Countries" level= "4"></node>
-    <node name="Middle East" level= "4">
-     <node name="Bahrain" level= "5"></node>
-     <node name="Iran" level= "5"></node>
-     <node name="Iraq" level= "5"></node>
-     <node name="Israel" level= "5"></node>
-     <node name="Jordan" level= "5"></node>
-     <node name="Kuwait" level= "5"></node>
-     <node name="Lebanon" level= "5"></node>
-     <node name="Oman" level= "5"></node>
-     <node name="Palestinian Territories" level= "5"></node>
-     <node name="Qatar" level= "5"></node>
-     <node name="Saudi Arabia" level= "5"></node>
-     <node name="Syria" level= "5"></node>
-     <node name="United Arab Emirates" level= "5"></node>
-     <node name="Yemen" level= "5"></node>
-      </node>
-
-    <node name="Nordic States" level= "4">
-     <node name="Denmark" level= "5"></node>
-     <node name="Finland" level= "5"></node>
-     <node name="Norway" level= "5"></node>
-     <node name="Sweden" level= "5"></node>
-      </node>
-
-    <node name="Asia/Pacific" level= "4"></node>
-    <node name="South America" level= "4"></node>
-    <node name="South Eastern Europe" level= "4">
-     <node name="Albania" level= "5"></node>
-     <node name="Bosnia and Herzegovina" level= "5"></node>
-     <node name="Bulgaria" level= "5"></node>
-     <node name="Croatia" level= "5"></node>
-     <node name="Greece" level= "5"></node>
-     <node name="Kosovo" level= "5"></node>
-     <node name="Macedonia" level= "5"></node>
-     <node name="Moldova" level= "5"></node>
-     <node name="Montenegro" level= "5"></node>
-     <node name="Romania" level= "5"></node>
-     <node name="Serbia" level= "5"></node>
-     <node name="Turkey" level= "5"></node>
-     <node name="Zypern" level= "5"></node>
-      </node>
-
-    <node name="Western Europe" level= "4">
-     <node name="Belgium" level= "5"></node>
-     <node name="France" level= "5"></node>
-     <node name="Great Britain" level= "5"></node>
-     <node name="Ireland" level= "5"></node>
-     <node name="Luxembourg" level= "5"></node>
-     <node name="Monaco" level= "5"></node>
-     <node name="Netherlands" level= "5"></node>
-      </node>
-
-    <node name="Australia" level= "4"></node>
-    <node name="New Zealand" level= "4"></node>
+   <node name="Story Type">
+    <node name="Advisories"></node>
+    <node name="Analyses"></node>
+    <node name="Analyses or Viewpoints"></node>
+    <node name="Blogs"></node>
+    <node name="Breaking News"></node>
+    <node name="Commentaries"></node>
+    <node name="Context Top News"></node>
+    <node name="Corporate News Releases"></node>
+    <node name="Enterprise Reporting"></node>
+    <node name="Fund Views"></node>
+    <node name="General News Releases"></node>
+    <node name="Instant Views"></node>
+    <node name="Interviews"></node>
+    <node name="Market Reports"></node>
+    <node name="Obituaries"></node>
+    <node name="Other Spot Stories"></node>
+    <node name="Research Alerts"></node>
+    <node name="Reuters Breakingviews"></node>
+    <node name="Reuters Top News"></node>
+    <node name="Special Reports"></node>
+    <node name="The Day Ahead"></node>
+    <node name="The Week Ahead"></node>
+    <node name="Top News"></node>
      </node>
 
     </node>
 
-  <node name="Finance" level= "2">
-   <node name="Fixed Income" level= "3">
-    <node name="Asset Backed Securities" level= "4"></node>
-    <node name="Bond Sales" level= "4"></node>
-    <node name="Credit and Corporate Debt" level= "4"></node>
-    <node name="Credit and Debt Ratings" level= "4"></node>
-    <node name="Credit Default Swaps" level= "4"></node>
-    <node name="Debt and Fixed Income Markets" level= "4"></node>
-    <node name="Equity-Linked bonds" level= "4">
-     <node name="Convertible Bonds" level= "5"></node>
-     <node name="Warrant Bonds" level= "5"></node>
-      </node>
-
-    <node name="Eurobonds" level= "4"></node>
-    <node name="Exchange Traded Funds" level= "4"></node>
-    <node name="High Yield Securities" level= "4"></node>
-    <node name="Index Linked Bonds" level= "4"></node>
-    <node name="Insurance Linked Securities" level= "4"></node>
-    <node name="Investment Grade Securities" level= "4"></node>
-    <node name="Loans" level= "4">
-     <node name="Certificates Of Deposit" level= "5"></node>
-     <node name="Commercial Paper" level= "5"></node>
-     <node name="Export Credit" level= "5"></node>
-     <node name="Floating Rate" level= "5"></node>
-     <node name="Multi Option Facilities" level= "5"></node>
-     <node name="Syndicated Credits" level= "5"></node>
-     <node name="Variable Rate" level= "5"></node>
-      </node>
-
-    <node name="Mortgage Agency Debt" level= "4">
-     <node name="Fannie Mae" level= "5"></node>
-     <node name="Freddie Mac" level= "5"></node>
-     <node name="Ginnie Mae" level= "5"></node>
-     <node name="Sallie Mae" level= "5"></node>
-      </node>
-
-    <node name="Mortgage-Backed Markets" level= "4"></node>
-    <node name="Municipal Debt" level= "4"></node>
-    <node name="National Government Debt" level= "4"></node>
-    <node name="Sukuk" level= "4">
-     <node name="Islamic Bonds" level= "5"></node>
-      </node>
-
-    <node name="Terms and Conditions" level= "4"></node>
-    <node name="US Corporate Bonds" level= "4"></node>
+  <node name="Places">
+   <node name="Countries">
+    <node name="Afghanistan"></node>
+    <node name="Albania"></node>
+    <node name="Algeria"></node>
+    <node name="American Samoa"></node>
+    <node name="Antarctica"></node>
+    <node name="Andorra"></node>
+    <node name="Angola"></node>
+    <node name="Anguilla"></node>
+    <node name="Antigua and Barbuda"></node>
+    <node name="Argentina"></node>
+    <node name="Armenia"></node>
+    <node name="Aruba"></node>
+    <node name="Austria"></node>
+    <node name="Azerbaijan"></node>
+    <node name="Bahamas"></node>
+    <node name="Bahrain"></node>
+    <node name="Bangladesh"></node>
+    <node name="Barbados"></node>
+    <node name="Belarus"></node>
+    <node name="Belgium"></node>
+    <node name="Belize"></node>
+    <node name="Benin"></node>
+    <node name="Bermuda"></node>
+    <node name="Bhutan"></node>
+    <node name="Bolivia"></node>
+    <node name="Bosnia and Herzegovina"></node>
+    <node name="Botswana"></node>
+    <node name="Bouvet Island"></node>
+    <node name="Brazil"></node>
+    <node name="British Indian Ocean Territory"></node>
+    <node name="British Virgin Islands"></node>
+    <node name="Brunei"></node>
+    <node name="Bulgaria"></node>
+    <node name="Burkina Faso"></node>
+    <node name="Burundi"></node>
+    <node name="Cambodia"></node>
+    <node name="Cameroon"></node>
+    <node name="Canada"></node>
+    <node name="Cape Verde"></node>
+    <node name="Cayman Islands"></node>
+    <node name="Central African Republic"></node>
+    <node name="Chad"></node>
+    <node name="Chile"></node>
+    <node name="China"></node>
+    <node name="Christmas Island"></node>
+    <node name="Cocos (Keeling) Islands"></node>
+    <node name="Colombia"></node>
+    <node name="Comoros"></node>
+    <node name="Congo Brazzaville"></node>
+    <node name="Congo-Kinshasa"></node>
+    <node name="Cook Islands"></node>
+    <node name="Costa Rica"></node>
+    <node name="South Korea"></node>
+    <node name="Croatia"></node>
+    <node name="Cuba"></node>
+    <node name="Cyprus"></node>
+    <node name="Czech Republic"></node>
+    <node name="Denmark"></node>
+    <node name="Djibouti"></node>
+    <node name="Dominica"></node>
+    <node name="Dominican Republic"></node>
+    <node name="East Timor"></node>
+    <node name="Ecuador"></node>
+    <node name="Egypt"></node>
+    <node name="El Salvador"></node>
+    <node name="England"></node>
+    <node name="Equatorial Guinea"></node>
+    <node name="Eritrea"></node>
+    <node name="Estonia"></node>
+    <node name="Ethiopia"></node>
+    <node name="Falkland Islands"></node>
+    <node name="Faroe Islands"></node>
+    <node name="Fiji"></node>
+    <node name="Finland"></node>
+    <node name="France"></node>
+    <node name="French Guiana"></node>
+    <node name="French Polynesia"></node>
+    <node name="French Southern Territories"></node>
+    <node name="Gabon"></node>
+    <node name="Gambia"></node>
+    <node name="Georgia"></node>
+    <node name="Germany"></node>
+    <node name="Ghana"></node>
+    <node name="Gibraltar"></node>
+    <node name="Greece"></node>
+    <node name="Greenland"></node>
+    <node name="Grenada"></node>
+    <node name="Guadeloupe"></node>
+    <node name="Guam"></node>
+    <node name="Guatemala"></node>
+    <node name="Guernsey"></node>
+    <node name="Guinea"></node>
+    <node name="Guinea Bissau"></node>
+    <node name="Guyana"></node>
+    <node name="Haiti"></node>
+    <node name="Heard and McDonald Islands"></node>
+    <node name="Honduras"></node>
+    <node name="Hong Kong"></node>
+    <node name="Hungary"></node>
+    <node name="Iceland"></node>
+    <node name="India"></node>
+    <node name="Indonesia"></node>
+    <node name="Iran"></node>
+    <node name="Iraq"></node>
+    <node name="Ireland"></node>
+    <node name="Isle of Man"></node>
+    <node name="Israel"></node>
+    <node name="Italy"></node>
+    <node name="Ivory Coast"></node>
+    <node name="Jamaica"></node>
+    <node name="Japan"></node>
+    <node name="Jersey"></node>
+    <node name="Jordan"></node>
+    <node name="Kazakhstan"></node>
+    <node name="Kenya"></node>
+    <node name="Kiribati"></node>
+    <node name="Kosovo"></node>
+    <node name="Kuwait"></node>
+    <node name="Kyrgyzstan"></node>
+    <node name="Laos"></node>
+    <node name="Latvia"></node>
+    <node name="Lebanon"></node>
+    <node name="Lesotho"></node>
+    <node name="Liberia"></node>
+    <node name="Libya"></node>
+    <node name="Liechtenstein"></node>
+    <node name="Lithuania"></node>
+    <node name="Luxembourg"></node>
+    <node name="Macau"></node>
+    <node name="Macedonia"></node>
+    <node name="Madagascar"></node>
+    <node name="Malawi"></node>
+    <node name="Malaysia"></node>
+    <node name="Maldives"></node>
+    <node name="Mali"></node>
+    <node name="Malta"></node>
+    <node name="Marshall Islands"></node>
+    <node name="Martinique"></node>
+    <node name="Mauritania"></node>
+    <node name="Mauritius"></node>
+    <node name="Mexico"></node>
+    <node name="Micronesia"></node>
+    <node name="Moldova"></node>
+    <node name="Monaco"></node>
+    <node name="Mongolia"></node>
+    <node name="Montenegro"></node>
+    <node name="Montserrat"></node>
+    <node name="Morocco"></node>
+    <node name="Mozambique"></node>
+    <node name="Myanmar"></node>
+    <node name="Namibia"></node>
+    <node name="Nauru"></node>
+    <node name="Nepal"></node>
+    <node name="Netherlands"></node>
+    <node name="New Caledonia"></node>
+    <node name="Nicaragua"></node>
+    <node name="Niger"></node>
+    <node name="Nigeria"></node>
+    <node name="Niue"></node>
+    <node name="North Korea"></node>
+    <node name="Northern Ireland"></node>
+    <node name="Norfolk Island"></node>
+    <node name="Norway"></node>
+    <node name="Oman"></node>
+    <node name="Pakistan"></node>
+    <node name="Palau"></node>
+    <node name="Palestinian Territories"></node>
+    <node name="Panama"></node>
+    <node name="Papua New Guinea"></node>
+    <node name="Paraguay"></node>
+    <node name="Peru"></node>
+    <node name="Philippines"></node>
+    <node name="Pitcairn"></node>
+    <node name="Poland"></node>
+    <node name="Portugal"></node>
+    <node name="Puerto Rico"></node>
+    <node name="Qatar"></node>
+    <node name="Réunion"></node>
+    <node name="Romania"></node>
+    <node name="Russia"></node>
+    <node name="Rwanda"></node>
+    <node name="Saint Helena, Ascension and Tristan da Cunha"></node>
+    <node name="Samoa"></node>
+    <node name="San Marino"></node>
+    <node name="Sao Tome and Principe"></node>
+    <node name="Saudi Arabia"></node>
+    <node name="Scotland"></node>
+    <node name="Senegal"></node>
+    <node name="Serbia"></node>
+    <node name="Seychelles"></node>
+    <node name="Sierra Leone"></node>
+    <node name="Singapore"></node>
+    <node name="Slovakia"></node>
+    <node name="Slovenia"></node>
+    <node name="Solomon Islands"></node>
+    <node name="Somalia"></node>
+    <node name="South Africa"></node>
+    <node name="South Georgia and South Sandwich Islands"></node>
+    <node name="South Sudan"></node>
+    <node name="Spain"></node>
+    <node name="Sri Lanka"></node>
+    <node name="St. Kitts and Nevis"></node>
+    <node name="St. Lucia"></node>
+    <node name="St. Pierre and Miquelon"></node>
+    <node name="St. Vincent and the Grenadines"></node>
+    <node name="Sudan"></node>
+    <node name="Sudan (Pre-Partition)"></node>
+    <node name="Suriname"></node>
+    <node name="Svalbard and Jan Mayen"></node>
+    <node name="Swaziland"></node>
+    <node name="Sweden"></node>
+    <node name="Switzerland"></node>
+    <node name="Syria"></node>
+    <node name="Taiwan"></node>
+    <node name="Tajikistan"></node>
+    <node name="Tanzania"></node>
+    <node name="Thailand"></node>
+    <node name="Togo"></node>
+    <node name="Tokelau"></node>
+    <node name="Tonga"></node>
+    <node name="Trinidad and Tobago"></node>
+    <node name="Tunisia"></node>
+    <node name="Turkey"></node>
+    <node name="Turkmenistan"></node>
+    <node name="Turks and Caicos Islands"></node>
+    <node name="Tuvalu"></node>
+    <node name="U.S. Virgin Islands"></node>
+    <node name="Uganda"></node>
+    <node name="Ukraine"></node>
+    <node name="United Arab Emirates"></node>
+    <node name="United Kingdom"></node>
+    <node name="United States"></node>
+    <node name="United States Minor Outlying Islands"></node>
+    <node name="Uruguay"></node>
+    <node name="Uzbekistan"></node>
+    <node name="Vanuatu"></node>
+    <node name="Vatican City"></node>
+    <node name="Venezuela"></node>
+    <node name="Vietnam"></node>
+    <node name="Wales"></node>
+    <node name="Wallis and Futuna"></node>
+    <node name="Western Sahara"></node>
+    <node name="Yemen"></node>
+    <node name="Zambia"></node>
+    <node name="Zimbabwe"></node>
      </node>
 
-   <node name="FX and Money Markets" level= "3">
-    <node name="Chinese Yuan Offshore" level= "4"></node>
-    <node name="Currencies" level= "4"></node>
-    <node name="Euro" level= "4"></node>
-    <node name="Foreign Exchange Markets" level= "4"></node>
-    <node name="Non Deliverable Forwards" level= "4"></node>
+   <node name="Country Subdivisions">
+    <node name="Alabama"></node>
+    <node name="Alaska"></node>
+    <node name="Arizona"></node>
+    <node name="Arkansas"></node>
+    <node name="California"></node>
+    <node name="Colorado"></node>
+    <node name="Connecticut"></node>
+    <node name="Delaware"></node>
+    <node name="District of Columbia"></node>
+    <node name="Florida"></node>
+    <node name="Hawaii"></node>
+    <node name="Idaho"></node>
+    <node name="Illinois"></node>
+    <node name="Indiana"></node>
+    <node name="Iowa"></node>
+    <node name="Kansas"></node>
+    <node name="Kentucky"></node>
+    <node name="Louisiana"></node>
+    <node name="Maine"></node>
+    <node name="Maryland"></node>
+    <node name="Massachusetts"></node>
+    <node name="Michigan"></node>
+    <node name="Minnesota"></node>
+    <node name="Mississippi"></node>
+    <node name="Missouri"></node>
+    <node name="Montana"></node>
+    <node name="Nebraska"></node>
+    <node name="Nevada"></node>
+    <node name="New Hampshire"></node>
+    <node name="New Jersey"></node>
+    <node name="New Mexico"></node>
+    <node name="New York"></node>
+    <node name="North Carolina"></node>
+    <node name="North Dakota"></node>
+    <node name="Ohio"></node>
+    <node name="Oklahoma"></node>
+    <node name="Oregon"></node>
+    <node name="Pennsylvania"></node>
+    <node name="Rhode Island"></node>
+    <node name="South Carolina"></node>
+    <node name="South Dakota"></node>
+    <node name="Tennessee"></node>
+    <node name="Texas"></node>
+    <node name="Utah"></node>
+    <node name="Vermont"></node>
+    <node name="Virginia"></node>
+    <node name="Washington"></node>
+    <node name="West Virginia"></node>
+    <node name="Wisconsin"></node>
+    <node name="Wyoming"></node>
      </node>
 
-   <node name="Personal Finance" level= "3">
-    <node name="Investing" level= "4"></node>
-    <node name="Old Age" level= "4"></node>
-    <node name="Retirement" level= "4"></node>
-     </node>
-
-   <node name="Securities" level= "3">
-    <node name="Accounting Issues" level= "4"></node>
-    <node name="Bonus Issues" level= "4"></node>
-    <node name="Broker Research and Recommendations" level= "4">
-     <node name="Broker Research" level= "5"></node>
-     <node name="Recommendations" level= "5"></node>
+   <node name="Regions">
+    <node name="Africa">
+     <node name="Algeria"></node>
+     <node name="Angola"></node>
+     <node name="Benin"></node>
+     <node name="Botswana"></node>
+     <node name="Burkina Faso"></node>
+     <node name="Burundi"></node>
+     <node name="Cameroon"></node>
+     <node name="Cape Verde"></node>
+     <node name="Central African Republic"></node>
+     <node name="Chad"></node>
+     <node name="Congo Brazzaville"></node>
+     <node name="Congo-Kinshasa"></node>
+     <node name="Djibouti"></node>
+     <node name="Egypt"></node>
+     <node name="Equatorial Guinea"></node>
+     <node name="Eritrea"></node>
+     <node name="Ethiopia"></node>
+     <node name="Gabon"></node>
+     <node name="Gambia"></node>
+     <node name="Ghana"></node>
+     <node name="Guatemala"></node>
+     <node name="Guinea"></node>
+     <node name="Ivory Coast"></node>
+     <node name="Kenya"></node>
+     <node name="Lesotho"></node>
+     <node name="Liberia"></node>
+     <node name="Libya"></node>
+     <node name="Madagascar"></node>
+     <node name="Mali"></node>
+     <node name="Mauritania"></node>
+     <node name="Mauritius"></node>
+     <node name="Morocco"></node>
+     <node name="Mozambique"></node>
+     <node name="Namibia"></node>
+     <node name="Niger"></node>
+     <node name="Nigeria"></node>
+     <node name="Réunion"></node>
+     <node name="Rwanda"></node>
+     <node name="Sao Tome and Principe"></node>
+     <node name="Senegal"></node>
+     <node name="Seychelles"></node>
+     <node name="Sierra Leone"></node>
+     <node name="Somalia"></node>
+     <node name="South Africa"></node>
+     <node name="Sudan"></node>
+     <node name="Swaziland"></node>
+     <node name="Tanzania"></node>
+     <node name="Togo"></node>
+     <node name="Tunisia"></node>
+     <node name="Uganda"></node>
+     <node name="Zambia"></node>
+     <node name="Zimbabwe"></node>
       </node>
 
-    <node name="Changes" level= "4">
-     <node name="Indices Changes" level= "5"></node>
-     <node name="Key Personnel Changes" level= "5"></node>
-     <node name="Name Changes" level= "5"></node>
+    <node name="Baltic States"></node>
+    <node name="Central America"></node>
+    <node name="Central Europe">
+     <node name="Austria"></node>
+     <node name="Czech Republic"></node>
+     <node name="Germany"></node>
+     <node name="Hungary"></node>
+     <node name="Liechtenstein"></node>
+     <node name="Poland"></node>
+     <node name="Slovakia"></node>
+     <node name="Slovenia"></node>
+     <node name="Switzerland"></node>
       </node>
 
-    <node name="Corporate Stories" level= "4">
-     <node name="Corporate Analysis" level= "5"></node>
-     <node name="Corporate Debt" level= "5"></node>
-     <node name="Corporate Debt Financing" level= "5"></node>
-     <node name="Corporate Finance" level= "5"></node>
-     <node name="Corporate Litigation" level= "5"></node>
+    <node name="CIS Countries"></node>
+    <node name="Eastern Europe">
+     <node name="Belarus"></node>
+     <node name="Estonia"></node>
+     <node name="Latvia"></node>
+     <node name="Lithuania"></node>
+     <node name="Russia"></node>
+     <node name="Ukraine"></node>
       </node>
 
-    <node name="Covered Bonds" level= "4"></node>
-    <node name="Deals" level= "4">
-     <node name="Directors Dealings" level= "5"></node>
+    <node name="Emerging Market Countries"></node>
+    <node name="Europe">
+     <node name="Albania"></node>
+     <node name="Andorra"></node>
+     <node name="Armenia"></node>
+     <node name="Austria"></node>
+     <node name="Azerbaijan"></node>
+     <node name="Belarus"></node>
+     <node name="Belgium"></node>
+     <node name="Bosnia and Herzegovina"></node>
+     <node name="Bulgaria"></node>
+     <node name="Croatia"></node>
+     <node name="Cyprus"></node>
+     <node name="Czech Republic"></node>
+     <node name="Denmark"></node>
+     <node name="Estonia"></node>
+     <node name="Finland"></node>
+     <node name="France"></node>
+     <node name="Georgia"></node>
+     <node name="Germany"></node>
+     <node name="Great Britain"></node>
+     <node name="Greece"></node>
+     <node name="Hungary"></node>
+     <node name="Iceland"></node>
+     <node name="Ireland"></node>
+     <node name="Italy"></node>
+     <node name="Latvia"></node>
+     <node name="Liechtenstein"></node>
+     <node name="Lithuania"></node>
+     <node name="Luxembourg"></node>
+     <node name="Macedonia"></node>
+     <node name="Malta"></node>
+     <node name="Moldova"></node>
+     <node name="Monaco"></node>
+     <node name="Montenegro"></node>
+     <node name="Netherlands"></node>
+     <node name="Norway"></node>
+     <node name="Poland"></node>
+     <node name="Portugal"></node>
+     <node name="Russia"></node>
+     <node name="San Marino"></node>
+     <node name="Serbia"></node>
+     <node name="Slovakia"></node>
+     <node name="Slovenia"></node>
       </node>
 
-    <node name="Divestitures and Spin-Offs" level= "4">
-     <node name="Divestitures" level= "5"></node>
-     <node name="Spin Offs" level= "5"></node>
+    <node name="Eurozone Countries"></node>
+    <node name="Middle East">
+     <node name="Bahrain"></node>
+     <node name="Iran"></node>
+     <node name="Iraq"></node>
+     <node name="Israel"></node>
+     <node name="Jordan"></node>
+     <node name="Kuwait"></node>
+     <node name="Lebanon"></node>
+     <node name="Oman"></node>
+     <node name="Palestinian Territories"></node>
+     <node name="Qatar"></node>
+     <node name="Saudi Arabia"></node>
+     <node name="Syria"></node>
+     <node name="United Arab Emirates"></node>
+     <node name="Yemen"></node>
       </node>
 
-    <node name="Equity Financing" level= "4"></node>
-    <node name="Equity Investments" level= "4"></node>
-    <node name="Initial Public Offerings" level= "4"></node>
-    <node name="Labour Disputes" level= "4"></node>
-    <node name="Management Issues and Policies" level= "4">
-     <node name="Management Issues" level= "5"></node>
-     <node name="Policies" level= "5"></node>
+    <node name="Nordic States">
+     <node name="Denmark"></node>
+     <node name="Finland"></node>
+     <node name="Norway"></node>
+     <node name="Sweden"></node>
       </node>
 
-    <node name="Market Events" level= "4"></node>
-    <node name="Performance Results and Earnings" level= "4">
-     <node name="Earnings" level= "5"></node>
-     <node name="Performance Results" level= "5"></node>
+    <node name="Asia/Pacific"></node>
+    <node name="South America"></node>
+    <node name="South Eastern Europe">
+     <node name="Albania"></node>
+     <node name="Bosnia and Herzegovina"></node>
+     <node name="Bulgaria"></node>
+     <node name="Croatia"></node>
+     <node name="Greece"></node>
+     <node name="Kosovo"></node>
+     <node name="Macedonia"></node>
+     <node name="Moldova"></node>
+     <node name="Montenegro"></node>
+     <node name="Romania"></node>
+     <node name="Serbia"></node>
+     <node name="Turkey"></node>
+     <node name="Zypern"></node>
       </node>
 
-    <node name="Private Equity Funds" level= "4">
-     <node name="Acquisitions" level= "5"></node>
-     <node name="Debt Renegotiation" level= "5"></node>
-     <node name="Mergers" level= "5"></node>
-     <node name="Takeovers" level= "5"></node>
+    <node name="Western Europe">
+     <node name="Belgium"></node>
+     <node name="France"></node>
+     <node name="Great Britain"></node>
+     <node name="Ireland"></node>
+     <node name="Luxembourg"></node>
+     <node name="Monaco"></node>
+     <node name="Netherlands"></node>
       </node>
 
-    <node name="Privatisations" level= "4"></node>
-    <node name="Real Estate Markets" level= "4">
-     <node name="Islamic Finance" level= "5"></node>
-      </node>
-
-    <node name="Restructuring and Reorganisation" level= "4">
-     <node name="Reorganisation" level= "5"></node>
-     <node name="Restructuring" level= "5"></node>
-      </node>
-
-    <node name="Results Forecasts and Warnings" level= "4">
-     <node name="Forecasts" level= "5"></node>
-     <node name="Results" level= "5"></node>
-     <node name="Warnings" level= "5"></node>
-      </node>
-
-    <node name="Secondary Offerings and Follow Ons" level= "4">
-     <node name="Follow Ons" level= "5"></node>
-     <node name="Secondary Offering" level= "5"></node>
-      </node>
-
-    <node name="Share Issues" level= "4">
-     <node name="Share Buybacks and Repurchases" level= "5">
-      <node name="Repurchases" level= "6"></node>
-      <node name="Share Buybacks" level= "6"></node>
-       </node>
-
-     <node name="Share Consolidations" level= "5"></node>
-     <node name="Share Splits" level= "5"></node>
-     <node name="Shareholder Meetings" level= "5"></node>
-      </node>
-
-    <node name="Stock Market" level= "4">
-     <node name="Delistings" level= "5"></node>
-     <node name="Listings" level= "5"></node>
-     <node name="Suspensions" level= "5"></node>
-      </node>
-
-    <node name="Strategic Combinations" level= "4"></node>
+    <node name="Australia"></node>
+    <node name="New Zealand"></node>
      </node>
 
     </node>
 
-  <node name="Markets" level= "2">
-   <node name="Commodity Market" level= "3">
-    <node name="Agricultural Markets" level= "4">
-     <node name="Fruit" level= "5"></node>
-     <node name="Grains" level= "5">
-      <node name="Barley" level= "6"></node>
-      <node name="Corn" level= "6"></node>
-      <node name="Fertilisers" level= "6"></node>
-      <node name="Rice" level= "6"></node>
-      <node name="Rye" level= "6"></node>
-      <node name="Sorghum" level= "6"></node>
-      <node name="Wheat" level= "6"></node>
-       </node>
-
-     <node name="Herbs" level= "5"></node>
-     <node name="Red Beans" level= "5"></node>
-     <node name="Silk" level= "5"></node>
-     <node name="United States Department of Agriculture" level= "5"></node>
-     <node name="Vegetables" level= "5"></node>
+  <node name="Finance">
+   <node name="Fixed Income">
+    <node name="Asset Backed Securities"></node>
+    <node name="Bond Sales"></node>
+    <node name="Credit and Corporate Debt"></node>
+    <node name="Credit and Debt Ratings"></node>
+    <node name="Credit Default Swaps"></node>
+    <node name="Debt and Fixed Income Markets"></node>
+    <node name="Equity-Linked bonds">
+     <node name="Convertible Bonds"></node>
+     <node name="Warrant Bonds"></node>
       </node>
 
-    <node name="Alcoholic Beverages" level= "4">
-     <node name="Middle Distillates" level= "5"></node>
-     <node name="Wine" level= "5"></node>
+    <node name="Eurobonds"></node>
+    <node name="Exchange Traded Funds"></node>
+    <node name="High Yield Securities"></node>
+    <node name="Index Linked Bonds"></node>
+    <node name="Insurance Linked Securities"></node>
+    <node name="Investment Grade Securities"></node>
+    <node name="Loans">
+     <node name="Certificates Of Deposit"></node>
+     <node name="Commercial Paper"></node>
+     <node name="Export Credit"></node>
+     <node name="Floating Rate"></node>
+     <node name="Multi Option Facilities"></node>
+     <node name="Syndicated Credits"></node>
+     <node name="Variable Rate"></node>
       </node>
 
-    <node name="Crude Regions" level= "4">
-     <node name="Africa Crudes" level= "5"></node>
-     <node name="Americas Crudes" level= "5"></node>
-     <node name="Asia Crudes" level= "5"></node>
-     <node name="Australasia Crudes" level= "5"></node>
-     <node name="Canada Crudes" level= "5"></node>
-     <node name="Europe Crudes" level= "5"></node>
-     <node name="Latin America Crudes" level= "5"></node>
-     <node name="Middle East Crudes" level= "5"></node>
-     <node name="North Asia Crudes" level= "5"></node>
-     <node name="Russia or Other CIS Crudes" level= "5"></node>
-     <node name="South East Asia Crudes" level= "5"></node>
-     <node name="US Crudes" level= "5"></node>
+    <node name="Mortgage Agency Debt">
+     <node name="Fannie Mae"></node>
+     <node name="Freddie Mac"></node>
+     <node name="Ginnie Mae"></node>
+     <node name="Sallie Mae"></node>
       </node>
 
-    <node name="Dairy" level= "4"></node>
-    <node name="Energy and Resource" level= "4">
-     <node name="Biofuels" level= "5">
-      <node name="Biodiesel" level= "6"></node>
-      <node name="Bioethanol" level= "6"></node>
-      <node name="Biomass" level= "6"></node>
-      <node name="Cellulosic Biofuels" level= "6"></node>
-       </node>
-
-     <node name="Coal" level= "5"></node>
-     <node name="Fuel Oil" level= "5">
-      <node name="Bunker Fuel" level= "6"></node>
-      <node name="Crude Oil" level= "6"></node>
-      <node name="Liquefied Petroleum Gas" level= "6"></node>
-       </node>
-
-     <node name="Natural Gas" level= "5">
-      <node name="Liquefied Natural Gas" level= "6"></node>
-       </node>
-
-     <node name="North Sea Oil" level= "5"></node>
+    <node name="Mortgage-Backed Markets"></node>
+    <node name="Municipal Debt"></node>
+    <node name="National Government Debt"></node>
+    <node name="Sukuk">
+     <node name="Islamic Bonds"></node>
       </node>
 
-    <node name="Genetically Modified Organisms" level= "4"></node>
-    <node name="Livestock" level= "4">
-     <node name="Animal Products" level= "5">
-      <node name="Milk Products" level= "6">
-       <node name="Cheese" level= "7"></node>
-       <node name="Milk" level= "7"></node>
+    <node name="Terms and Conditions"></node>
+    <node name="US Corporate Bonds"></node>
+     </node>
+
+   <node name="FX and Money Markets">
+    <node name="Chinese Yuan Offshore"></node>
+    <node name="Currencies"></node>
+    <node name="Euro"></node>
+    <node name="Foreign Exchange Markets"></node>
+    <node name="Non Deliverable Forwards"></node>
+     </node>
+
+   <node name="Personal Finance">
+    <node name="Investing"></node>
+    <node name="Old Age"></node>
+    <node name="Retirement"></node>
+     </node>
+
+   <node name="Securities">
+    <node name="Accounting Issues"></node>
+    <node name="Bonus Issues"></node>
+    <node name="Broker Research and Recommendations">
+     <node name="Broker Research"></node>
+     <node name="Recommendations"></node>
+      </node>
+
+    <node name="Changes">
+     <node name="Indices Changes"></node>
+     <node name="Key Personnel Changes"></node>
+     <node name="Name Changes"></node>
+      </node>
+
+    <node name="Corporate Stories">
+     <node name="Corporate Analysis"></node>
+     <node name="Corporate Debt"></node>
+     <node name="Corporate Debt Financing"></node>
+     <node name="Corporate Finance"></node>
+     <node name="Corporate Litigation"></node>
+      </node>
+
+    <node name="Covered Bonds"></node>
+    <node name="Deals">
+     <node name="Directors Dealings"></node>
+      </node>
+
+    <node name="Divestitures and Spin-Offs">
+     <node name="Divestitures"></node>
+     <node name="Spin Offs"></node>
+      </node>
+
+    <node name="Equity Financing"></node>
+    <node name="Equity Investments"></node>
+    <node name="Initial Public Offerings"></node>
+    <node name="Labour Disputes"></node>
+    <node name="Management Issues and Policies">
+     <node name="Management Issues"></node>
+     <node name="Policies"></node>
+      </node>
+
+    <node name="Market Events"></node>
+    <node name="Performance Results and Earnings">
+     <node name="Earnings"></node>
+     <node name="Performance Results"></node>
+      </node>
+
+    <node name="Private Equity Funds">
+     <node name="Acquisitions"></node>
+     <node name="Debt Renegotiation"></node>
+     <node name="Mergers"></node>
+     <node name="Takeovers"></node>
+      </node>
+
+    <node name="Privatisations"></node>
+    <node name="Real Estate Markets">
+     <node name="Islamic Finance"></node>
+      </node>
+
+    <node name="Restructuring and Reorganisation">
+     <node name="Reorganisation"></node>
+     <node name="Restructuring"></node>
+      </node>
+
+    <node name="Results Forecasts and Warnings">
+     <node name="Forecasts"></node>
+     <node name="Results"></node>
+     <node name="Warnings"></node>
+      </node>
+
+    <node name="Secondary Offerings and Follow Ons">
+     <node name="Follow Ons"></node>
+     <node name="Secondary Offering"></node>
+      </node>
+
+    <node name="Share Issues">
+     <node name="Share Buybacks and Repurchases">
+      <node name="Repurchases"></node>
+      <node name="Share Buybacks"></node>
+       </node>
+
+     <node name="Share Consolidations"></node>
+     <node name="Share Splits"></node>
+     <node name="Shareholder Meetings"></node>
+      </node>
+
+    <node name="Stock Market">
+     <node name="Delistings"></node>
+     <node name="Listings"></node>
+     <node name="Suspensions"></node>
+      </node>
+
+    <node name="Strategic Combinations"></node>
+     </node>
+
+    </node>
+
+  <node name="Markets">
+   <node name="Commodity Market">
+    <node name="Agricultural Markets">
+     <node name="Fruit"></node>
+     <node name="Grains">
+      <node name="Barley"></node>
+      <node name="Corn"></node>
+      <node name="Fertilisers"></node>
+      <node name="Rice"></node>
+      <node name="Rye"></node>
+      <node name="Sorghum"></node>
+      <node name="Wheat"></node>
+       </node>
+
+     <node name="Herbs"></node>
+     <node name="Red Beans"></node>
+     <node name="Silk"></node>
+     <node name="United States Department of Agriculture"></node>
+     <node name="Vegetables"></node>
+      </node>
+
+    <node name="Alcoholic Beverages">
+     <node name="Middle Distillates"></node>
+     <node name="Wine"></node>
+      </node>
+
+    <node name="Crude Regions">
+     <node name="Africa Crudes"></node>
+     <node name="Americas Crudes"></node>
+     <node name="Asia Crudes"></node>
+     <node name="Australasia Crudes"></node>
+     <node name="Canada Crudes"></node>
+     <node name="Europe Crudes"></node>
+     <node name="Latin America Crudes"></node>
+     <node name="Middle East Crudes"></node>
+     <node name="North Asia Crudes"></node>
+     <node name="Russia or Other CIS Crudes"></node>
+     <node name="South East Asia Crudes"></node>
+     <node name="US Crudes"></node>
+      </node>
+
+    <node name="Dairy"></node>
+    <node name="Energy and Resource">
+     <node name="Biofuels">
+      <node name="Biodiesel"></node>
+      <node name="Bioethanol"></node>
+      <node name="Biomass"></node>
+      <node name="Cellulosic Biofuels"></node>
+       </node>
+
+     <node name="Coal"></node>
+     <node name="Fuel Oil">
+      <node name="Bunker Fuel"></node>
+      <node name="Crude Oil"></node>
+      <node name="Liquefied Petroleum Gas"></node>
+       </node>
+
+     <node name="Natural Gas">
+      <node name="Liquefied Natural Gas"></node>
+       </node>
+
+     <node name="North Sea Oil"></node>
+      </node>
+
+    <node name="Genetically Modified Organisms"></node>
+    <node name="Livestock">
+     <node name="Animal Products">
+      <node name="Milk Products">
+       <node name="Cheese"></node>
+       <node name="Milk"></node>
         </node>
 
-      <node name="Wool" level= "6"></node>
+      <node name="Wool"></node>
        </node>
 
       </node>
 
-    <node name="Meals" level= "4">
-     <node name="Feeds" level= "5"></node>
-     <node name="Pulses" level= "5"></node>
+    <node name="Meals">
+     <node name="Feeds"></node>
+     <node name="Pulses"></node>
       </node>
 
-    <node name="Metals Markets" level= "4">
-     <node name="Alloy" level= "5">
-      <node name="Iron and Steel" level= "6">
-       <node name="Steel" level= "7"></node>
+    <node name="Metals Markets">
+     <node name="Alloy">
+      <node name="Iron and Steel">
+       <node name="Steel"></node>
         </node>
 
-      <node name="Stainless Steel" level= "6"></node>
+      <node name="Stainless Steel"></node>
        </node>
 
-     <node name="Aluminium" level= "5"></node>
-     <node name="Antimony" level= "5"></node>
-     <node name="Base metals" level= "5">
-      <node name="Copper" level= "6"></node>
-      <node name="Lead" level= "6"></node>
-      <node name="Zinc" level= "6"></node>
+     <node name="Aluminium"></node>
+     <node name="Antimony"></node>
+     <node name="Base metals">
+      <node name="Copper"></node>
+      <node name="Lead"></node>
+      <node name="Zinc"></node>
        </node>
 
-     <node name="Chemical Elements" level= "5">
-      <node name="Bismuth" level= "6"></node>
-      <node name="Gallium" level= "6"></node>
-      <node name="Germanium" level= "6"></node>
-      <node name="Magnesium" level= "6"></node>
-      <node name="Manganese" level= "6"></node>
-      <node name="Selenium" level= "6"></node>
+     <node name="Chemical Elements">
+      <node name="Bismuth"></node>
+      <node name="Gallium"></node>
+      <node name="Germanium"></node>
+      <node name="Magnesium"></node>
+      <node name="Manganese"></node>
+      <node name="Selenium"></node>
        </node>
 
-     <node name="Lithium" level= "5"></node>
-     <node name="Minor Metals or Minerals" level= "5">
-      <node name="Iron Ore" level= "6"></node>
-      <node name="Potash" level= "6"></node>
+     <node name="Lithium"></node>
+     <node name="Minor Metals or Minerals">
+      <node name="Iron Ore"></node>
+      <node name="Potash"></node>
        </node>
 
-     <node name="Precious Metals and Minerals" level= "5">
-      <node name="Diamonds" level= "6"></node>
-      <node name="Gold" level= "6"></node>
-      <node name="Palladium" level= "6"></node>
-      <node name="Platinum" level= "6"></node>
-      <node name="Platinum Group Metals" level= "6"></node>
-      <node name="Rhodium" level= "6"></node>
-      <node name="Silver" level= "6"></node>
+     <node name="Precious Metals and Minerals">
+      <node name="Diamonds"></node>
+      <node name="Gold"></node>
+      <node name="Palladium"></node>
+      <node name="Platinum"></node>
+      <node name="Platinum Group Metals"></node>
+      <node name="Rhodium"></node>
+      <node name="Silver"></node>
        </node>
 
-     <node name="Rare Earths" level= "5"></node>
-     <node name="Scrap Metals" level= "5"></node>
-     <node name="Silicon" level= "5"></node>
-     <node name="Tin" level= "5"></node>
-     <node name="Transition Metal" level= "5">
-      <node name="Cadmium" level= "6"></node>
-      <node name="Chromium" level= "6"></node>
-      <node name="Cobalt" level= "6"></node>
-      <node name="Iridium" level= "6"></node>
-      <node name="Molybdenum" level= "6"></node>
-      <node name="Nickel" level= "6"></node>
-      <node name="Niobium" level= "6"></node>
-      <node name="Rhenium" level= "6"></node>
-      <node name="Ruthenium" level= "6"></node>
-      <node name="Titanium" level= "6"></node>
-      <node name="Tungsten" level= "6"></node>
-      <node name="Vanadium" level= "6"></node>
+     <node name="Rare Earths"></node>
+     <node name="Scrap Metals"></node>
+     <node name="Silicon"></node>
+     <node name="Tin"></node>
+     <node name="Transition Metal">
+      <node name="Cadmium"></node>
+      <node name="Chromium"></node>
+      <node name="Cobalt"></node>
+      <node name="Iridium"></node>
+      <node name="Molybdenum"></node>
+      <node name="Nickel"></node>
+      <node name="Niobium"></node>
+      <node name="Rhenium"></node>
+      <node name="Ruthenium"></node>
+      <node name="Titanium"></node>
+      <node name="Tungsten"></node>
+      <node name="Vanadium"></node>
        </node>
 
-     <node name="Uranium" level= "5"></node>
+     <node name="Uranium"></node>
       </node>
 
-    <node name="Oils" level= "4">
-     <node name="Coconut Oil" level= "5"></node>
-     <node name="Corn Oil" level= "5"></node>
-     <node name="Oilseeds" level= "5"></node>
-     <node name="Olive Oil" level= "5"></node>
-     <node name="Palm Oil" level= "5"></node>
-     <node name="Peanut Oil" level= "5"></node>
-     <node name="Rapeseed Oil" level= "5"></node>
-     <node name="Soybean Oil" level= "5"></node>
-     <node name="Sunflower Oil" level= "5"></node>
+    <node name="Oils">
+     <node name="Coconut Oil"></node>
+     <node name="Corn Oil"></node>
+     <node name="Oilseeds"></node>
+     <node name="Olive Oil"></node>
+     <node name="Palm Oil"></node>
+     <node name="Peanut Oil"></node>
+     <node name="Rapeseed Oil"></node>
+     <node name="Soybean Oil"></node>
+     <node name="Sunflower Oil"></node>
       </node>
 
-    <node name="PADD Regions" level= "4">
-     <node name="East Coast (PADD I)" level= "5"></node>
-     <node name="Gulf Coast (PADD III)" level= "5"></node>
-     <node name="Midwest (PADD II)" level= "5"></node>
-     <node name="Organization of Petroleum Exporting Countries" level= "5"></node>
-     <node name="Rockies (PADD IV)" level= "5"></node>
-     <node name="West Coast (PADD V)" level= "5"></node>
+    <node name="PADD Regions">
+     <node name="East Coast (PADD I)"></node>
+     <node name="Gulf Coast (PADD III)"></node>
+     <node name="Midwest (PADD II)"></node>
+     <node name="Organization of Petroleum Exporting Countries"></node>
+     <node name="Rockies (PADD IV)"></node>
+     <node name="West Coast (PADD V)"></node>
       </node>
 
-    <node name="Phosphates" level= "4"></node>
-    <node name="Plastics" level= "4">
-     <node name="Petrochemicals" level= "5"></node>
-     <node name="Polymers" level= "5"></node>
+    <node name="Phosphates"></node>
+    <node name="Plastics">
+     <node name="Petrochemicals"></node>
+     <node name="Polymers"></node>
       </node>
 
-    <node name="Refined Products" level= "4">
-     <node name="Gas Oil" level= "5"></node>
-     <node name="Gasoline" level= "5"></node>
-     <node name="Heating Oil" level= "5"></node>
-     <node name="Jet Fuel" level= "5"></node>
-     <node name="Kerosene" level= "5"></node>
-     <node name="Naphtha" level= "5"></node>
+    <node name="Refined Products">
+     <node name="Gas Oil"></node>
+     <node name="Gasoline"></node>
+     <node name="Heating Oil"></node>
+     <node name="Jet Fuel"></node>
+     <node name="Kerosene"></node>
+     <node name="Naphtha"></node>
       </node>
 
-    <node name="Soft Drinks" level= "4">
-     <node name="Orange Juice" level= "5"></node>
+    <node name="Soft Drinks">
+     <node name="Orange Juice"></node>
       </node>
 
-    <node name="Softs" level= "4">
-     <node name="Cocoa" level= "5"></node>
-     <node name="Coffee" level= "5">
-      <node name="Arabica" level= "6"></node>
-      <node name="Robusta" level= "6"></node>
+    <node name="Softs">
+     <node name="Cocoa"></node>
+     <node name="Coffee">
+      <node name="Arabica"></node>
+      <node name="Robusta"></node>
        </node>
 
-     <node name="Cotton" level= "5"></node>
-     <node name="Rubber" level= "5"></node>
-     <node name="Spices" level= "5"></node>
-     <node name="Sugar" level= "5"></node>
-     <node name="Tea" level= "5"></node>
+     <node name="Cotton"></node>
+     <node name="Rubber"></node>
+     <node name="Spices"></node>
+     <node name="Sugar"></node>
+     <node name="Tea"></node>
       </node>
 
-    <node name="Timber or Lumber" level= "4"></node>
-    <node name="Transportation Markets and Transportation" level= "4">
-     <node name="Barge" level= "5"></node>
-     <node name="Container" level= "5"></node>
-     <node name="Dry Bulk Freight" level= "5"></node>
-     <node name="Rail freight" level= "5"></node>
-     <node name="Road Freight" level= "5"></node>
-     <node name="Tanker Freight" level= "5"></node>
+    <node name="Timber or Lumber"></node>
+    <node name="Transportation Markets and Transportation">
+     <node name="Barge"></node>
+     <node name="Container"></node>
+     <node name="Dry Bulk Freight"></node>
+     <node name="Rail freight"></node>
+     <node name="Road Freight"></node>
+     <node name="Tanker Freight"></node>
       </node>
 
-    <node name="Weather" level= "4">
-     <node name="Precipitation" level= "5"></node>
-     <node name="Temperature" level= "5"></node>
-     <node name="Wind" level= "5">
-      <node name="Tornadoes" level= "6"></node>
-      <node name="Typhoons" level= "6"></node>
-      <node name="Hurricanes" level= "6"></node>
+    <node name="Weather">
+     <node name="Precipitation"></node>
+     <node name="Temperature"></node>
+     <node name="Wind">
+      <node name="Tornadoes"></node>
+      <node name="Typhoons"></node>
+      <node name="Hurricanes"></node>
        </node>
 
       </node>
 
      </node>
 
-   <node name="Cross Market" level= "3">
-    <node name="Audio" level= "4"></node>
-    <node name="Class Actions" level= "4"></node>
-    <node name="Corporate Events" level= "4"></node>
-    <node name="Derivatives" level= "4"></node>
-    <node name="Funds" level= "4"></node>
-    <node name="Graphics" level= "4"></node>
-    <node name="Hedge Funds" level= "4"></node>
-    <node name="Internet and World Wide Web" level= "4"></node>
-    <node name="New Issues" level= "4"></node>
-    <node name="Options" level= "4"></node>
-    <node name="PDFs" level= "4"></node>
-    <node name="Pictures" level= "4"></node>
-    <node name="Production Status Changes" level= "4"></node>
-    <node name="Real Estate Markets" level= "4"></node>
-    <node name="Regulation" level= "4"></node>
-    <node name="Reuters summits" level= "4"></node>
-    <node name="Sovereign Wealth Funds" level= "4"></node>
-    <node name="Video" level= "4"></node>
+   <node name="Cross Market">
+    <node name="Audio"></node>
+    <node name="Class Actions"></node>
+    <node name="Corporate Events"></node>
+    <node name="Derivatives"></node>
+    <node name="Funds"></node>
+    <node name="Graphics"></node>
+    <node name="Hedge Funds"></node>
+    <node name="Internet and World Wide Web"></node>
+    <node name="New Issues"></node>
+    <node name="Options"></node>
+    <node name="PDFs"></node>
+    <node name="Pictures"></node>
+    <node name="Production Status Changes"></node>
+    <node name="Real Estate Markets"></node>
+    <node name="Regulation"></node>
+    <node name="Reuters summits"></node>
+    <node name="Sovereign Wealth Funds"></node>
+    <node name="Video"></node>
      </node>
 
-   <node name="Energy Market" level= "3">
-    <node name="Emissions Markets" level= "4"></node>
-    <node name="Power Markets" level= "4">
-     <node name="Coal Fired Power" level= "5"></node>
-     <node name="Gas Fired Power" level= "5"></node>
-     <node name="Geothermal Power" level= "5"></node>
-     <node name="Hydro Power" level= "5"></node>
-     <node name="Nuclear Power" level= "5"></node>
-     <node name="Oil fired Power" level= "5"></node>
-     <node name="Renewable Power" level= "5"></node>
-     <node name="Solar Power" level= "5"></node>
-     <node name="Tidal or Wave Power" level= "5"></node>
-     <node name="Wind power" level= "5"></node>
+   <node name="Energy Market">
+    <node name="Emissions Markets"></node>
+    <node name="Power Markets">
+     <node name="Coal Fired Power"></node>
+     <node name="Gas Fired Power"></node>
+     <node name="Geothermal Power"></node>
+     <node name="Hydro Power"></node>
+     <node name="Nuclear Power"></node>
+     <node name="Oil fired Power"></node>
+     <node name="Renewable Power"></node>
+     <node name="Solar Power"></node>
+     <node name="Tidal or Wave Power"></node>
+     <node name="Wind power"></node>
       </node>
 
-    <node name="Power Stations" level= "4">
-     <node name="Biomass Power Stations" level= "5"></node>
-     <node name="ERCOT Power Stations" level= "5"></node>
-     <node name="FRCC Power Stations" level= "5"></node>
-     <node name="MRO Power Stations" level= "5"></node>
-     <node name="NPCC Power Stations" level= "5"></node>
-     <node name="RFC Power Stations" level= "5"></node>
-     <node name="SERC Power Stations" level= "5"></node>
-     <node name="SPP Power Stations" level= "5"></node>
-     <node name="WECC Power Stations" level= "5"></node>
+    <node name="Power Stations">
+     <node name="Biomass Power Stations"></node>
+     <node name="ERCOT Power Stations"></node>
+     <node name="FRCC Power Stations"></node>
+     <node name="MRO Power Stations"></node>
+     <node name="NPCC Power Stations"></node>
+     <node name="RFC Power Stations"></node>
+     <node name="SERC Power Stations"></node>
+     <node name="SPP Power Stations"></node>
+     <node name="WECC Power Stations"></node>
       </node>
 
-    <node name="Renewable Energy" level= "4"></node>
-    <node name="Tantalite" level= "4"></node>
+    <node name="Renewable Energy"></node>
+    <node name="Tantalite"></node>
      </node>
 
     </node>
