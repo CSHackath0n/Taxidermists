@@ -66,5 +66,5 @@ def parse_articles_from_file(file_path, line_sep='\n'):
     return parse_articles(articles_txt, line_sep)
 
 
-# print(parse_articles_from_file('Data/News300.txt'))
+#print(parse_articles_from_file('Data/News300.txt'))
 # print(parse_articles_from_url('https://hackathon17.mope.ml/HackathonSite/News300.txt'))

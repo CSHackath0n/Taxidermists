@@ -28,6 +28,7 @@ def node_list_to_tree(node_list):
         parents.append(new_node)
     return tree
 
+
 def tree_to_file(tree, file_path):
     res = list(flatten(tree_to_str(tree.get_node(tree.root), tree)))
     with open(file_path, 'w') as f:
