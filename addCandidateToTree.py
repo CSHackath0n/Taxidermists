@@ -6,15 +6,17 @@ from gensim.models.doc2vec import LabeledSentence
 import numpy
 import re
 import uuid
+from keywords_patrick import get_keywords
 """
 Created on Fri Nov 24 17:02:53 2017
 
 @author: michael
 """
-def importCandidates(listOfCandidate):
+def importCandidates():
     #TODO: Process listOfCandidates
     #TODO: Return the post-processed listofCandidates
-    return ["Disaster", "Google", "NASDAQ", "Merkel"] #meanwhile we return some words
+    return get_keywords(articles= parse_articles.parse_articles_from_file('Data/News300.txt'), taxonomy= parse_taxonomy.parse_taxonomy_form_file('michaelData/T0.csv'))
+    #["Disaster", "Google", "NASDAQ", "Merkel"] #meanwhile we return some words
 
 def importTree():
     return parse_taxonomy.parse_taxonomy_form_file('michaelData/T0.csv')
@@ -25,7 +27,7 @@ def importArticleForTraining():
 def prepareGensim():
     trainingSet = importArticleForTraining()
     trainingProcessed = []
-    print("Hello")
+    print("Model Start the training!")
     for e in trainingSet:
         eTags = e['topicsDescription']
         eTags = [item.lower() for item in eTags]
@@ -51,7 +53,7 @@ def prepareGensim():
 def insertCandidateToTree(): 
     model = prepareGensim()
     tree = importTree()
-    for candidate in importCandidates([]):
+    for candidate in importCandidates():
         (leaf, maxSimilarity) = findNode(tree, candidate.lower(), model, -1, -1)
         print(leaf.tag)
         print(maxSimilarity)
