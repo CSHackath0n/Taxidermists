@@ -48,21 +48,39 @@ def prepareGensim():
 def insertCandidateToTree(): 
     model = prepareGensim()
     candidate = "coupon"
-    leaf = findLeaf(importTree(), candidate, model)
+    leaf = findLeaf(importTree(), candidate, model, -1, -1)
     print(leaf.tag)
     
-def findLeaf(tree, candidate, model):
+def findLeaf(tree, candidate, model, maxSimilarityFound, bestChild):
     if len(tree.children(tree.root)) > 0:
-        maxSimilarityFound = 0
-        bestChild = ''
         for child in tree.children(tree.root):
             similarityPerWordOfChild = []
-            for wordPerChild in child.tag:
+            
+            for wordPerChild in filter(lambda x: x in model.wv.vocab, child.tag.split(" ")): # if we have multiple words
                 similarityPerWordOfChild.append(model.similarity(wordPerChild, candidate))
+            if not similarityPerWordOfChild:
+                similarityPerWordOfChild = [0]
             if(numpy.mean(similarityPerWordOfChild) > maxSimilarityFound):
-                maxSimilarityFound = model.similarity(child.tag, candidate)
+                maxSimilarityFound = numpy.mean(similarityPerWordOfChild)    
                 bestChild = child
-        return bestChild
+                print("HEY")
+                print(maxSimilarityFound,bestChild.tag)
+            print("---")
+            print("---")
+            print(maxSimilarityFound, bestChild)
+            print("---")
+            bestChild = findLeaf(tree.subtree(child.identifier), candidate, model, maxSimilarityFound, bestChild)
+
     else:
-        return tree
-    
+        similarityPerWordOfChild = []
+        for wordPerChild in filter(lambda x: x in model.wv.vocab, tree.all_nodes()[0].tag.split(" ")): # if we have multiple words
+            similarityPerWordOfChild.append(model.similarity(wordPerChild, candidate))
+        if not similarityPerWordOfChild:
+            similarityPerWordOfChild = [0]
+        if(numpy.mean(similarityPerWordOfChild) > maxSimilarityFound):
+            maxSimilarityFound = numpy.mean(similarityPerWordOfChild)    
+            bestChild = tree.all_nodes()[0].tag
+    return bestChild    
+
+
+insertCandidateToTree()
