@@ -28,7 +28,10 @@ def prepareGensim():
     print("Hello")
     for e in trainingSet:
         eTags = e['topicsDescription']
+        eTags = [item.lower() for item in eTags]
         eWords =  re.sub("[^\w]", " ",  e['story']).split() # look for nltk tokenizer
+        eWords = [item.lower() for item in eWords]
+        #eWords = [item.lower() for sublist in eWords for item in sublist]
         eDocument = LabeledSentence(words = eWords, tags = eTags)
         trainingProcessed.append(eDocument)
         
@@ -47,84 +50,65 @@ def prepareGensim():
     
 def insertCandidateToTree(): 
     model = prepareGensim()
-    candidate = "coupon"
-    (leaf, maxSimilarity) = findNode(importTree(), candidate, model, -1, -1)
-    print(leaf.tag)
-    print(maxSimilarity)
+    tree = importTree()
+    for candidate in importCandidates([]):
+        (leaf, maxSimilarity) = findNode(tree, candidate.lower(), model, -1, -1)
+        print(leaf.tag)
+        print(maxSimilarity)
+        tree.create_node(candidate, parent=leaf.identifier)
     
-# =============================================================================
-#     
-# def findLeaf(tree, candidate, model, maxSimilarityFound, bestChild):
-#     if len(tree.children(tree.root)) > 0:
-#         for child in tree.children(tree.root):
-#             similarityPerWordOfChild = []
-#             listOfWordsToAnalyze = child.tag.split(" ")
-#             for grandchild in tree.subtree(child.identifier).all_nodes():
-#                 listOfWordsToAnalyze.append(grandchild.tag)
-#             for wordPerChild in filter(lambda x: x in model.wv.vocab, listOfWordsToAnalyze): # if we have multiple words
-#                 similarityPerWordOfChild.append(model.similarity(wordPerChild, candidate))
-#             
-#             if not similarityPerWordOfChild:
-#                 similarityPerWordOfChild = [0]
-#             if(numpy.mean(similarityPerWordOfChild) > maxSimilarityFound):
-#                 maxSimilarityFound = numpy.mean(similarityPerWordOfChild)    
-#                 bestChild = child
-#                 print("HEY")
-#                 print(maxSimilarityFound,bestChild.tag)
-#             print("---")
-#             print("---")
-#             print(maxSimilarityFound, bestChild)
-#             print("We are at this node:")
-#             print(child)
-#             print("---")
-#             (bestChild,maxSimilarityFound) = findLeaf(tree.subtree(child.identifier), candidate, model, maxSimilarityFound, bestChild)
-# 
-#     else:
-#         similarityPerWordOfChild = []
-#         for wordPerChild in filter(lambda x: x in model.wv.vocab, tree.all_nodes()[0].tag.split(" ")): # if we have multiple words
-#             similarityPerWordOfChild.append(model.similarity(wordPerChild, candidate))
-#         if not similarityPerWordOfChild:
-#             similarityPerWordOfChild = [0]
-#         if(numpy.mean(similarityPerWordOfChild) > maxSimilarityFound):
-#             maxSimilarityFound = numpy.mean(similarityPerWordOfChild)    
-#             bestChild = tree.all_nodes()[0]
-#     return (bestChild,maxSimilarityFound)
-# 
-# =============================================================================
 
-insertCandidateToTree()
-
-def findNode(tree, candidate, model, maxSimilarityFound, bestNode):
+def findNode(tree, candidate, model, maxSimilarityFound, bestNodeFound):
+# =============================================================================
+#     print("findNode")
+#     print(maxSimilarityFound, bestNodeFound)
+# =============================================================================
     if len(tree.children(tree.root)) == 0: #if we are at a leaf, so node = tree   
-        return compareCurrentNodeWithPreviousBest(tree, tree, maxSimilarityFound, bestNode, model, candidate)
+        return compareCurrentNodeWithPreviousBest(tree, tree, maxSimilarityFound, bestNodeFound, model, candidate)
     else:
         bestChildNode = None
         bestChildMaxSimilarityFound = -1
         for child in tree.children(tree.root):
-            (bestChildNode, bestChildMaxSimilarityFound) = compareCurrentNodeWithPreviousBest(tree, child, maxSimilarityFound, bestNode, model, candidate)
-        
-        if(bestChildMaxSimilarityFound > maxSimilarityFound): # if we found a child with something better, we go there
-            (bestNode, maxSimilarityFound) = findNode(tree.subtree(bestChildNode.identifier), candidate, model, bestChildMaxSimilarityFound, bestChildNode)
+            if(bestChildMaxSimilarityFound > maxSimilarityFound):
+                (bestChildNode, bestChildMaxSimilarityFound) = compareCurrentNodeWithPreviousBest(tree, child, bestChildMaxSimilarityFound, bestChildNode, model, candidate)
+            else:
+                (bestChildNode, bestChildMaxSimilarityFound) = compareCurrentNodeWithPreviousBest(tree, child, maxSimilarityFound, bestNodeFound, model, candidate)
 
-    return (bestNode, maxSimilarityFound)
+        if(bestChildMaxSimilarityFound > maxSimilarityFound): # if we found a child with something better, we go there
+
+             (bestNodeFound, maxSimilarityFound) = findNode(tree.subtree(bestChildNode.identifier), candidate, model, bestChildMaxSimilarityFound, bestChildNode)
+
+    return (bestNodeFound, maxSimilarityFound)
     
 def compareCurrentNodeWithPreviousBest(tree, node, maxSimilarityFound, bestNodeFound, model, candidate):
     listOfWordsToAnalyze = []
     similarityPerWordOfNode = []
     
     if len(tree.children(node.identifier)) == 0: #if we are at a leaf
-        listOfWordsToAnalyze.extend(node.tag.split(" "))
+        listOfWordsToAnalyze.append([node.tag.split(" "),1])
     else:
+        treeDepth = tree.depth()
         for aNode in tree.subtree(node.identifier).all_nodes():
-            listOfWordsToAnalyze.extend(aNode.tag.split(" "))
-            
-    for wordPerChild in filter(lambda x: x in model.wv.vocab, listOfWordsToAnalyze): # if we have multiple words
-        similarityPerWordOfNode.append(model.similarity(wordPerChild, candidate))
+            aNodeDepth = tree.depth(aNode)
+            aNodeCoefficient = treeDepth - aNodeDepth
+            currentList = aNode.tag.split(" ")
+            aNodeToAnalyze = []
+            for e in currentList:
+                aNodeToAnalyze.append([e, aNodeCoefficient])
+            listOfWordsToAnalyze.extend(aNodeToAnalyze)
+    for word, nodeCoefficient in listOfWordsToAnalyze:  
+        for wordPerChild in filter(lambda x: x in model.wv.vocab, word):
+            similarityPerWordOfNode.append([model.similarity(wordPerChild, candidate),nodeCoefficient])
         
     if not similarityPerWordOfNode:
-        similarityPerWordOfNode = [0]
-        
-    if(numpy.mean(similarityPerWordOfNode) > maxSimilarityFound):
-        maxSimilarityFound = numpy.mean(similarityPerWordOfNode)    
+        similarityPerWordOfNode = [[0,1]]
+    similarityValue = [b[0] for b in similarityPerWordOfNode]
+    similarityCoefficient = [b[1] for b in similarityPerWordOfNode]
+    weightedAverage = numpy.average(similarityValue, weights= similarityCoefficient)
+    if(weightedAverage > maxSimilarityFound):
+        maxSimilarityFound = weightedAverage   
         bestNodeFound = node
     return (bestNodeFound, maxSimilarityFound)
+
+
+insertCandidateToTree()
