@@ -56,7 +56,7 @@ def insertCandidateToTree():
         print(leaf.tag)
         print(maxSimilarity)
         tree.create_node(candidate, uuid.uuid4(), parent=leaf.identifier)
-    
+    return tree
 
 def findNode(tree, candidate, model, maxSimilarityFound, bestNodeFound):
 # =============================================================================
