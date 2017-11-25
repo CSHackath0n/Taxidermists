@@ -5,7 +5,7 @@ from gensim.models import Doc2Vec
 from gensim.models.doc2vec import LabeledSentence
 import numpy
 import re
-
+import uuid
 """
 Created on Fri Nov 24 17:02:53 2017
 
@@ -14,7 +14,7 @@ Created on Fri Nov 24 17:02:53 2017
 def importCandidates(listOfCandidate):
     #TODO: Process listOfCandidates
     #TODO: Return the post-processed listofCandidates
-    return ["Coupon", "Derivative", "NASDAQ"] #meanwhile we return some words
+    return ["Disaster", "Google", "NASDAQ", "Merkel"] #meanwhile we return some words
 
 def importTree():
     return parse_taxonomy.parse_taxonomy_form_file('michaelData/T0.csv')
@@ -55,7 +55,7 @@ def insertCandidateToTree():
         (leaf, maxSimilarity) = findNode(tree, candidate.lower(), model, -1, -1)
         print(leaf.tag)
         print(maxSimilarity)
-        tree.create_node(candidate, parent=leaf.identifier)
+        tree.create_node(candidate, uuid.uuid4(), parent=leaf.identifier)
     
 
 def findNode(tree, candidate, model, maxSimilarityFound, bestNodeFound):
@@ -64,7 +64,7 @@ def findNode(tree, candidate, model, maxSimilarityFound, bestNodeFound):
 #     print(maxSimilarityFound, bestNodeFound)
 # =============================================================================
     if len(tree.children(tree.root)) == 0: #if we are at a leaf, so node = tree   
-        return compareCurrentNodeWithPreviousBest(tree, tree, maxSimilarityFound, bestNodeFound, model, candidate)
+        return compareCurrentNodeWithPreviousBest(tree, tree.get_node(tree.root), maxSimilarityFound, bestNodeFound, model, candidate)
     else:
         bestChildNode = None
         bestChildMaxSimilarityFound = -1
