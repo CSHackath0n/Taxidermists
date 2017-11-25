@@ -54,8 +54,9 @@ def insertCandidateToTree():
     tree = importTree()
     for candidate in importCandidates():
         (leaf, maxSimilarity) = findNode(tree, candidate.lower(), model, -1, -1)
-        print(leaf.tag)
-        print(maxSimilarity)
+        print("--")
+        print(candidate, leaf.tag, maxSimilarity)
+        print("--")
         tree.create_node(candidate, uuid.uuid4(), parent=leaf.identifier)
     return tree
 

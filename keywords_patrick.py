@@ -44,11 +44,11 @@ def get_keywords(articles, taxonomy):
     # create dictionary
     #print(texts)
     dictionary = corpora.Dictionary(texts)
-    dictionary.save('patrick/dict.txt')  # store the dictionary, for future reference
+    #dictionary.save('patrick/dict.txt')  # store the dictionary, for future reference
 
     # create corpus
     corpus = [dictionary.doc2bow(text) for text in texts]
-    corpora.MmCorpus.serialize('patrick/corpus.txt', corpus)  # store to disk, for later use
+    #corpora.MmCorpus.serialize('patrick/corpus.txt', corpus)  # store to disk, for later use
 
     tfidf = models.TfidfModel(corpus)
     corpus_tfidf = tfidf[corpus]
