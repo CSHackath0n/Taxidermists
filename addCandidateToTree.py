@@ -52,7 +52,7 @@ def prepareGensim():
 def insertCandidateToTree(): 
     model = prepareGensim()
     tree = importTree()
-    for candidate in importCandidates():
+    for candidate in filter(lambda x: x in model.wv.vocab, importCandidates()):
         (leaf, maxSimilarity) = findNode(tree, candidate.lower(), model, -1, -1)
         print("--")
         print(candidate, leaf.tag, maxSimilarity)
