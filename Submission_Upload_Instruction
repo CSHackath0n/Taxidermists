@@ -1,0 +1,26 @@
+Cc: Karavias, George (SJBM 4) CWR; Sodolovic, Aleksandra (SVDU 6); Fischmann, Anna (SVDU 2)
+Betreff: Hackathon Submission Upload
+
+ 
+
+Dear All
+
+ 
+
+Here are the submission instructions:
+
+1.       Download the new 300 news articles from this URL: https://hackathon17.mope.ml/HackathonSite/AccuracyTestNews300.txt
+
+2.       Run your Machine Learning Engine using the Taxonomy 1 as a baseline (https://hackathon17.mope.ml/HackathonSite/T1.csv)
+
+3.       Take your new taxonomy and upload it here with the flag “Store” selected:  https://hackathon17.mope.ml/HackathonSite.
+
+ 
+
+Note:
+
+·         Please note that the CSV file must be UTF 8 encoded as mentioned in the initial hackathon PPT.
+
+ 
+
+Good Luck to You All,
