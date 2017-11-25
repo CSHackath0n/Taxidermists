@@ -10,7 +10,6 @@ from keywords_patrick import get_keywords
 """
 Created on Fri Nov 24 17:02:53 2017
 
-@author: michael
 """
 def importCandidates():
     #TODO: Process listOfCandidates
