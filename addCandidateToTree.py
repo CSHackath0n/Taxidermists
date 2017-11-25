@@ -3,6 +3,7 @@ import parse_articles
 import parse_taxonomy
 from gensim.models import Doc2Vec
 from gensim.models.doc2vec import LabeledSentence
+import numpy
 import re
 
 """
@@ -16,10 +17,10 @@ def importCandidates(listOfCandidate):
     return ["Coupon", "Derivative", "NASDAQ"] #meanwhile we return some words
 
 def importTree():
-    return parse_taxonomy.parse_taxonomy_form_file('Data/T0.csv')
+    return parse_taxonomy.parse_taxonomy_form_file('michaelData/T0.csv')
 
 def importArticleForTraining():
-    return parse_articles.parse_articles_from_file('Data/NewsAll.txt')
+    return parse_articles.parse_articles_from_file('Data/News300.txt')
 
 def prepareGensim():
     trainingSet = importArticleForTraining()
@@ -55,7 +56,10 @@ def findLeaf(tree, candidate, model):
         maxSimilarityFound = 0
         bestChild = ''
         for child in tree.children(tree.root):
-            if(model.similarity(child.tag, candidate) > maxSimilarityFound):
+            similarityPerWordOfChild = []
+            for wordPerChild in child.tag:
+                similarityPerWordOfChild.append(model.similarity(wordPerChild, candidate))
+            if(numpy.mean(similarityPerWordOfChild) > maxSimilarityFound):
                 maxSimilarityFound = model.similarity(child.tag, candidate)
                 bestChild = child
         return bestChild
